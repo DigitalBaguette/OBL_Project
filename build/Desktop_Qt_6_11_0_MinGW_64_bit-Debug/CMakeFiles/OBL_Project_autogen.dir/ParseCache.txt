@@ -785,6 +785,8 @@ C:/Users/polsk/Documents/GitHub/OBL_Project/src/llm/OllamaClient.h
  mdp:C:/Users/polsk/Documents/GitHub/OBL_Project/src/llm/OllamaClient.h
 C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/MainWindow.h
  mmc:Q_OBJECT
+ mdp:C:/Qt/6.11.0/mingw_64/include/QtCore/QString
+ mdp:C:/Qt/6.11.0/mingw_64/include/QtCore/QStringList
  mdp:C:/Qt/6.11.0/mingw_64/include/QtCore/q17memory.h
  mdp:C:/Qt/6.11.0/mingw_64/include/QtCore/q20bit.h
  mdp:C:/Qt/6.11.0/mingw_64/include/QtCore/q20functional.h
@@ -1161,6 +1163,7 @@ C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/MainWindow.h
  mdp:C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h
  mdp:C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
  mdp:C:/Users/polsk/Documents/GitHub/OBL_Project/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/OBL_Project_autogen/moc_predefs.h
+ mdp:C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/CompanyProfile.h
  mdp:C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/MainWindow.h
 C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/CompanyInputDialog.h
  mmc:Q_OBJECT

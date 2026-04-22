@@ -4,12 +4,15 @@
 #include <QString>
 #include <QStringList>
 
-class CompanyProfile {
-public:
-    QString industry;        // Branża firmy
-    int employeeCount = 0;   // Liczba pracowników
-    QStringList teams;       // Lista działów/zespołów
-    int locationsCount = 1;  // Liczba lokalizacji
+struct CompanyProfile {
+    QString industry;
+    int employeeCount;
+    int locationsCount;
+    QStringList teams;
+    QString priority;
+    QString budget;
+    bool hasServerRoom;    // Dla CheckBoxa
+    QString additionalNotes;
 };
 
-#endif
+#endif // COMPANYPROFILE_H

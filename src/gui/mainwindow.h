@@ -2,25 +2,26 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include "../core/CompanyProfile.h"
 
-// Forward declarations - upraszczają kompilację
-class OllamaClient;
+QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
+QT_END_NAMESPACE
 
-class MainWindow : public QMainWindow {
+class MainWindow : public QMainWindow
+{
     Q_OBJECT
 
 public:
-    explicit MainWindow(QWidget *parent = nullptr);
+    MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
 private slots:
-    void handleAIResponse(const QString& response);
-    void handleAIError(const QString& error);
+    // Ta nazwa MUSI odpowiadać schematowi: on_NAZWAOBIEKTU_clicked
+    void on_generateButton_clicked();
 
 private:
     Ui::MainWindow *ui;
-    OllamaClient *ollama;
 };
 
-#endif
+#endif // MAINWINDOW_H
