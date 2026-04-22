@@ -32,6 +32,11 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake",
+		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake",
+		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake",
 		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
 		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
 		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6Config.cmake",
@@ -92,11 +97,6 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake",
-		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake",
-		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake",
-		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
-		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake",
 		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake",
 		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersionImpl.cmake",
 		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake",
@@ -367,7 +367,75 @@
 	"CROSS_CONFIG" : false,
 	"DEP_FILE" : "C:/Users/polsk/Documents/GitHub/OBL_Project/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/OBL_Project_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "OBL_Project_autogen/timestamp",
-	"HEADERS" : [],
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/CompanyProfile.h",
+			"MU",
+			"PRMOGMWJPH/moc_CompanyProfile.cpp",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/NetworkAnalyzer.h",
+			"MU",
+			"PRMOGMWJPH/moc_NetworkAnalyzer.cpp",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/NetworkProposal.h",
+			"MU",
+			"PRMOGMWJPH/moc_NetworkProposal.cpp",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/CompanyInputDialog.h",
+			"MU",
+			"MXUWEOXILK/moc_CompanyInputDialog.cpp",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/HistoryWidget.h",
+			"MU",
+			"MXUWEOXILK/moc_HistoryWidget.cpp",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/MainWindow.h",
+			"MU",
+			"MXUWEOXILK/moc_MainWindow.cpp",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/NetworkResultWidget.h",
+			"MU",
+			"MXUWEOXILK/moc_NetworkResultWidget.cpp",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/llm/OllamaClient.h",
+			"MU",
+			"PO2R7MZETR/moc_OllamaClient.cpp",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/llm/PromptBuilder.h",
+			"MU",
+			"PO2R7MZETR/moc_PromptBuilder.cpp",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/storage/DatabaseManager.h",
+			"MU",
+			"F2ESZRYZMC/moc_DatabaseManager.cpp",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/storage/JsonSerializer.h",
+			"MU",
+			"F2ESZRYZMC/moc_JsonSerializer.cpp",
+			null
+		]
+	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "C:/Users/polsk/Documents/GitHub/OBL_Project/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/OBL_Project_autogen/include",
 	"MOC_COMPILATION_FILE" : "C:/Users/polsk/Documents/GitHub/OBL_Project/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/OBL_Project_autogen/mocs_compilation.cpp",
@@ -441,7 +509,69 @@
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 11,
 	"SETTINGS_FILE" : "C:/Users/polsk/Documents/GitHub/OBL_Project/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/OBL_Project_autogen.dir/AutogenUsed.txt",
-	"SOURCES" : [],
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/CompanyProfile.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/NetworkAnalyzer.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/NetworkProposal.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/CompanyInputDialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/HistoryWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/MainWindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/NetworkResultWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/llm/OllamaClient.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/llm/PromptBuilder.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/storage/DatabaseManager.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/polsk/Documents/GitHub/OBL_Project/src/storage/JsonSerializer.cpp",
+			"MU",
+			null
+		]
+	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
 	"UIC_SKIP" : [],

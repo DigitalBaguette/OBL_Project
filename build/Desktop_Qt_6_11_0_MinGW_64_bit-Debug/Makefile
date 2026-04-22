@@ -233,6 +233,294 @@ OBL_Project_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/OBL_Project_autogen/mocs_compilation.cpp.s
 .PHONY : OBL_Project_autogen/mocs_compilation.cpp.s
 
+src/core/CompanyProfile.obj: src/core/CompanyProfile.cpp.obj
+.PHONY : src/core/CompanyProfile.obj
+
+# target to build an object file
+src/core/CompanyProfile.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.obj
+.PHONY : src/core/CompanyProfile.cpp.obj
+
+src/core/CompanyProfile.i: src/core/CompanyProfile.cpp.i
+.PHONY : src/core/CompanyProfile.i
+
+# target to preprocess a source file
+src/core/CompanyProfile.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.i
+.PHONY : src/core/CompanyProfile.cpp.i
+
+src/core/CompanyProfile.s: src/core/CompanyProfile.cpp.s
+.PHONY : src/core/CompanyProfile.s
+
+# target to generate assembly for a file
+src/core/CompanyProfile.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.s
+.PHONY : src/core/CompanyProfile.cpp.s
+
+src/core/NetworkAnalyzer.obj: src/core/NetworkAnalyzer.cpp.obj
+.PHONY : src/core/NetworkAnalyzer.obj
+
+# target to build an object file
+src/core/NetworkAnalyzer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.obj
+.PHONY : src/core/NetworkAnalyzer.cpp.obj
+
+src/core/NetworkAnalyzer.i: src/core/NetworkAnalyzer.cpp.i
+.PHONY : src/core/NetworkAnalyzer.i
+
+# target to preprocess a source file
+src/core/NetworkAnalyzer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.i
+.PHONY : src/core/NetworkAnalyzer.cpp.i
+
+src/core/NetworkAnalyzer.s: src/core/NetworkAnalyzer.cpp.s
+.PHONY : src/core/NetworkAnalyzer.s
+
+# target to generate assembly for a file
+src/core/NetworkAnalyzer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.s
+.PHONY : src/core/NetworkAnalyzer.cpp.s
+
+src/core/NetworkProposal.obj: src/core/NetworkProposal.cpp.obj
+.PHONY : src/core/NetworkProposal.obj
+
+# target to build an object file
+src/core/NetworkProposal.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.obj
+.PHONY : src/core/NetworkProposal.cpp.obj
+
+src/core/NetworkProposal.i: src/core/NetworkProposal.cpp.i
+.PHONY : src/core/NetworkProposal.i
+
+# target to preprocess a source file
+src/core/NetworkProposal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.i
+.PHONY : src/core/NetworkProposal.cpp.i
+
+src/core/NetworkProposal.s: src/core/NetworkProposal.cpp.s
+.PHONY : src/core/NetworkProposal.s
+
+# target to generate assembly for a file
+src/core/NetworkProposal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.s
+.PHONY : src/core/NetworkProposal.cpp.s
+
+src/gui/CompanyInputDialog.obj: src/gui/CompanyInputDialog.cpp.obj
+.PHONY : src/gui/CompanyInputDialog.obj
+
+# target to build an object file
+src/gui/CompanyInputDialog.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj
+.PHONY : src/gui/CompanyInputDialog.cpp.obj
+
+src/gui/CompanyInputDialog.i: src/gui/CompanyInputDialog.cpp.i
+.PHONY : src/gui/CompanyInputDialog.i
+
+# target to preprocess a source file
+src/gui/CompanyInputDialog.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.i
+.PHONY : src/gui/CompanyInputDialog.cpp.i
+
+src/gui/CompanyInputDialog.s: src/gui/CompanyInputDialog.cpp.s
+.PHONY : src/gui/CompanyInputDialog.s
+
+# target to generate assembly for a file
+src/gui/CompanyInputDialog.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.s
+.PHONY : src/gui/CompanyInputDialog.cpp.s
+
+src/gui/HistoryWidget.obj: src/gui/HistoryWidget.cpp.obj
+.PHONY : src/gui/HistoryWidget.obj
+
+# target to build an object file
+src/gui/HistoryWidget.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj
+.PHONY : src/gui/HistoryWidget.cpp.obj
+
+src/gui/HistoryWidget.i: src/gui/HistoryWidget.cpp.i
+.PHONY : src/gui/HistoryWidget.i
+
+# target to preprocess a source file
+src/gui/HistoryWidget.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.i
+.PHONY : src/gui/HistoryWidget.cpp.i
+
+src/gui/HistoryWidget.s: src/gui/HistoryWidget.cpp.s
+.PHONY : src/gui/HistoryWidget.s
+
+# target to generate assembly for a file
+src/gui/HistoryWidget.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.s
+.PHONY : src/gui/HistoryWidget.cpp.s
+
+src/gui/MainWindow.obj: src/gui/MainWindow.cpp.obj
+.PHONY : src/gui/MainWindow.obj
+
+# target to build an object file
+src/gui/MainWindow.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj
+.PHONY : src/gui/MainWindow.cpp.obj
+
+src/gui/MainWindow.i: src/gui/MainWindow.cpp.i
+.PHONY : src/gui/MainWindow.i
+
+# target to preprocess a source file
+src/gui/MainWindow.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.i
+.PHONY : src/gui/MainWindow.cpp.i
+
+src/gui/MainWindow.s: src/gui/MainWindow.cpp.s
+.PHONY : src/gui/MainWindow.s
+
+# target to generate assembly for a file
+src/gui/MainWindow.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.s
+.PHONY : src/gui/MainWindow.cpp.s
+
+src/gui/NetworkResultWidget.obj: src/gui/NetworkResultWidget.cpp.obj
+.PHONY : src/gui/NetworkResultWidget.obj
+
+# target to build an object file
+src/gui/NetworkResultWidget.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj
+.PHONY : src/gui/NetworkResultWidget.cpp.obj
+
+src/gui/NetworkResultWidget.i: src/gui/NetworkResultWidget.cpp.i
+.PHONY : src/gui/NetworkResultWidget.i
+
+# target to preprocess a source file
+src/gui/NetworkResultWidget.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.i
+.PHONY : src/gui/NetworkResultWidget.cpp.i
+
+src/gui/NetworkResultWidget.s: src/gui/NetworkResultWidget.cpp.s
+.PHONY : src/gui/NetworkResultWidget.s
+
+# target to generate assembly for a file
+src/gui/NetworkResultWidget.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.s
+.PHONY : src/gui/NetworkResultWidget.cpp.s
+
+src/llm/OllamaClient.obj: src/llm/OllamaClient.cpp.obj
+.PHONY : src/llm/OllamaClient.obj
+
+# target to build an object file
+src/llm/OllamaClient.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.obj
+.PHONY : src/llm/OllamaClient.cpp.obj
+
+src/llm/OllamaClient.i: src/llm/OllamaClient.cpp.i
+.PHONY : src/llm/OllamaClient.i
+
+# target to preprocess a source file
+src/llm/OllamaClient.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.i
+.PHONY : src/llm/OllamaClient.cpp.i
+
+src/llm/OllamaClient.s: src/llm/OllamaClient.cpp.s
+.PHONY : src/llm/OllamaClient.s
+
+# target to generate assembly for a file
+src/llm/OllamaClient.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.s
+.PHONY : src/llm/OllamaClient.cpp.s
+
+src/llm/PromptBuilder.obj: src/llm/PromptBuilder.cpp.obj
+.PHONY : src/llm/PromptBuilder.obj
+
+# target to build an object file
+src/llm/PromptBuilder.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.obj
+.PHONY : src/llm/PromptBuilder.cpp.obj
+
+src/llm/PromptBuilder.i: src/llm/PromptBuilder.cpp.i
+.PHONY : src/llm/PromptBuilder.i
+
+# target to preprocess a source file
+src/llm/PromptBuilder.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.i
+.PHONY : src/llm/PromptBuilder.cpp.i
+
+src/llm/PromptBuilder.s: src/llm/PromptBuilder.cpp.s
+.PHONY : src/llm/PromptBuilder.s
+
+# target to generate assembly for a file
+src/llm/PromptBuilder.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.s
+.PHONY : src/llm/PromptBuilder.cpp.s
+
+src/main.obj: src/main.cpp.obj
+.PHONY : src/main.obj
+
+# target to build an object file
+src/main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/main.cpp.obj
+.PHONY : src/main.cpp.obj
+
+src/main.i: src/main.cpp.i
+.PHONY : src/main.i
+
+# target to preprocess a source file
+src/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/main.cpp.i
+.PHONY : src/main.cpp.i
+
+src/main.s: src/main.cpp.s
+.PHONY : src/main.s
+
+# target to generate assembly for a file
+src/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/main.cpp.s
+.PHONY : src/main.cpp.s
+
+src/storage/DatabaseManager.obj: src/storage/DatabaseManager.cpp.obj
+.PHONY : src/storage/DatabaseManager.obj
+
+# target to build an object file
+src/storage/DatabaseManager.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.obj
+.PHONY : src/storage/DatabaseManager.cpp.obj
+
+src/storage/DatabaseManager.i: src/storage/DatabaseManager.cpp.i
+.PHONY : src/storage/DatabaseManager.i
+
+# target to preprocess a source file
+src/storage/DatabaseManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.i
+.PHONY : src/storage/DatabaseManager.cpp.i
+
+src/storage/DatabaseManager.s: src/storage/DatabaseManager.cpp.s
+.PHONY : src/storage/DatabaseManager.s
+
+# target to generate assembly for a file
+src/storage/DatabaseManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.s
+.PHONY : src/storage/DatabaseManager.cpp.s
+
+src/storage/JsonSerializer.obj: src/storage/JsonSerializer.cpp.obj
+.PHONY : src/storage/JsonSerializer.obj
+
+# target to build an object file
+src/storage/JsonSerializer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.obj
+.PHONY : src/storage/JsonSerializer.cpp.obj
+
+src/storage/JsonSerializer.i: src/storage/JsonSerializer.cpp.i
+.PHONY : src/storage/JsonSerializer.i
+
+# target to preprocess a source file
+src/storage/JsonSerializer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.i
+.PHONY : src/storage/JsonSerializer.cpp.i
+
+src/storage/JsonSerializer.s: src/storage/JsonSerializer.cpp.s
+.PHONY : src/storage/JsonSerializer.s
+
+# target to generate assembly for a file
+src/storage/JsonSerializer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.s
+.PHONY : src/storage/JsonSerializer.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -252,6 +540,42 @@ help:
 	@echo ... OBL_Project_autogen/mocs_compilation.obj
 	@echo ... OBL_Project_autogen/mocs_compilation.i
 	@echo ... OBL_Project_autogen/mocs_compilation.s
+	@echo ... src/core/CompanyProfile.obj
+	@echo ... src/core/CompanyProfile.i
+	@echo ... src/core/CompanyProfile.s
+	@echo ... src/core/NetworkAnalyzer.obj
+	@echo ... src/core/NetworkAnalyzer.i
+	@echo ... src/core/NetworkAnalyzer.s
+	@echo ... src/core/NetworkProposal.obj
+	@echo ... src/core/NetworkProposal.i
+	@echo ... src/core/NetworkProposal.s
+	@echo ... src/gui/CompanyInputDialog.obj
+	@echo ... src/gui/CompanyInputDialog.i
+	@echo ... src/gui/CompanyInputDialog.s
+	@echo ... src/gui/HistoryWidget.obj
+	@echo ... src/gui/HistoryWidget.i
+	@echo ... src/gui/HistoryWidget.s
+	@echo ... src/gui/MainWindow.obj
+	@echo ... src/gui/MainWindow.i
+	@echo ... src/gui/MainWindow.s
+	@echo ... src/gui/NetworkResultWidget.obj
+	@echo ... src/gui/NetworkResultWidget.i
+	@echo ... src/gui/NetworkResultWidget.s
+	@echo ... src/llm/OllamaClient.obj
+	@echo ... src/llm/OllamaClient.i
+	@echo ... src/llm/OllamaClient.s
+	@echo ... src/llm/PromptBuilder.obj
+	@echo ... src/llm/PromptBuilder.i
+	@echo ... src/llm/PromptBuilder.s
+	@echo ... src/main.obj
+	@echo ... src/main.i
+	@echo ... src/main.s
+	@echo ... src/storage/DatabaseManager.obj
+	@echo ... src/storage/DatabaseManager.i
+	@echo ... src/storage/DatabaseManager.s
+	@echo ... src/storage/JsonSerializer.obj
+	@echo ... src/storage/JsonSerializer.i
+	@echo ... src/storage/JsonSerializer.s
 .PHONY : help
 
 

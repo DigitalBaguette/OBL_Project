@@ -181,16 +181,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets-relwithdebinfo.cmake"
   "C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets.cmake"
   "C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargetsPrecheck.cmake"
-  "C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestAdditionalTargetInfo.cmake"
-  "C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestConfig.cmake"
-  "C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestConfigVersion.cmake"
-  "C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestConfigVersionImpl.cmake"
-  "C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestDependencies.cmake"
-  "C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestTargets-relwithdebinfo.cmake"
-  "C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestTargets.cmake"
-  "C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestTargetsPrecheck.cmake"
-  "C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestVersionlessAliasTargets.cmake"
-  "C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/QtTestProperties.cmake"
   "C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginAdditionalTargetInfo.cmake"
   "C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginConfig.cmake"
   "C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets-relwithdebinfo.cmake"
@@ -255,7 +245,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.30.5/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.30.5/CMakeRCCompiler.cmake"
   "CMakeFiles/3.30.5/CMakeSystem.cmake"
-  "C:/Users/polsk/Documents/GitHub/OBL_Project/tests/CMakeLists.txt"
   )
 
 # The corresponding makefile is:
@@ -270,7 +259,6 @@ set(CMAKE_MAKEFILE_PRODUCTS
   ".qt/QtDeploySupport.cmake"
   ".qt/QtDeployTargets.cmake"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
-  "tests/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
