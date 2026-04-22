@@ -407,8 +407,7 @@
 		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
 		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicWindowsHelpers.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
-		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		"C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake"
 	],
 	"CMAKE_SOURCE_DIR" : "C:/Users/polsk/Documents/GitHub/OBL_Project",
 	"CROSS_CONFIG" : false,

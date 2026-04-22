@@ -9,17 +9,20 @@ class OllamaClient : public QObject {
     Q_OBJECT
 public:
     explicit OllamaClient(QObject *parent = nullptr);
-    void sendRequest(const QString& prompt);
+
+    // Ta deklaracja musi tu być, aby uniknąć błędu "Out-of-line definition"
+    void sendPrompt(const QString &prompt);
 
 signals:
-    void responseReceived(const QString& response);
-    void errorOccurred(const QString& error);
+    void responseReceived(const QString &response);
+    void errorOccurred(const QString &error);
 
 private slots:
-    void onReplyFinished(QNetworkReply* reply);
+    void onReplyFinished(QNetworkReply *reply);
 
 private:
-    QNetworkAccessManager* networkManager;
+    // Upewnij się, że nazwa to m_networkManager
+    QNetworkAccessManager *m_networkManager;
 };
 
-#endif
+#endif // OLLAMACLIENT_H

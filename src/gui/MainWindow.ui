@@ -21,6 +21,13 @@
     <item>
      <widget class="QPushButton" name="generateButton">
       <property name="text">
+       <string>Utwórz wiadomość dla LLM</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="sendToAIButton">
+      <property name="text">
        <string>Generuj propozycję sieci</string>
       </property>
      </widget>

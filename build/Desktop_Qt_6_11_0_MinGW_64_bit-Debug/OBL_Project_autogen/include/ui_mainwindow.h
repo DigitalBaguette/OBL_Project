@@ -29,6 +29,7 @@ public:
     QVBoxLayout *verticalLayout;
     QPlainTextEdit *promptDisplay;
     QPushButton *generateButton;
+    QPushButton *sendToAIButton;
     QMenuBar *menubar;
     QStatusBar *statusbar;
     QToolBar *toolBar;
@@ -52,6 +53,11 @@ public:
 
         verticalLayout->addWidget(generateButton);
 
+        sendToAIButton = new QPushButton(centralwidget);
+        sendToAIButton->setObjectName("sendToAIButton");
+
+        verticalLayout->addWidget(sendToAIButton);
+
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName("menubar");
@@ -72,7 +78,8 @@ public:
     void retranslateUi(QMainWindow *MainWindow)
     {
         MainWindow->setWindowTitle(QCoreApplication::translate("MainWindow", "Network Architect AI", nullptr));
-        generateButton->setText(QCoreApplication::translate("MainWindow", "Generuj propozycj\304\231 sieci", nullptr));
+        generateButton->setText(QCoreApplication::translate("MainWindow", "Utw\303\263rz wiadomo\305\233\304\207 dla LLM", nullptr));
+        sendToAIButton->setText(QCoreApplication::translate("MainWindow", "Generuj propozycj\304\231 sieci", nullptr));
         toolBar->setWindowTitle(QCoreApplication::translate("MainWindow", "toolBar", nullptr));
     } // retranslateUi
 
