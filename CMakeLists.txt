@@ -1,0 +1,80 @@
+cmake_minimum_required(VERSION 3.16)
+project(OBL_Project VERSION 0.1 LANGUAGES CXX)
+
+set(CMAKE_AUTOUIC ON)
+set(CMAKE_AUTOMOC ON)
+set(CMAKE_AUTORCC ON)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+# Qt packages
+find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets Network)
+find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets Network)
+
+# nlohmann/json
+include_directories(${CMAKE_SOURCE_DIR}/include)
+
+# Pliki źródłowe
+set(PROJECT_SOURCES
+    src/main.cpp
+
+    src/gui/MainWindow.cpp
+    src/gui/MainWindow.h
+    src/gui/MainWindow.ui
+    src/gui/CompanyInputDialog.cpp
+    src/gui/CompanyInputDialog.h
+    src/gui/CompanyInputDialog.ui
+    src/gui/NetworkResultWidget.cpp
+    src/gui/NetworkResultWidget.h
+    src/gui/NetworkResultWidget.ui
+    src/gui/HistoryWidget.cpp
+    src/gui/HistoryWidget.h
+    src/gui/HistoryWidget.ui
+
+    src/core/NetworkProposal.cpp
+    src/core/NetworkProposal.h
+    src/core/CompanyProfile.cpp
+    src/core/CompanyProfile.h
+    src/core/NetworkAnalyzer.cpp
+    src/core/NetworkAnalyzer.h
+
+    src/llm/OllamaClient.cpp
+    src/llm/OllamaClient.h
+    src/llm/PromptBuilder.cpp
+    src/llm/PromptBuilder.h
+
+    src/storage/DatabaseManager.cpp
+    src/storage/DatabaseManager.h
+    src/storage/JsonSerializer.cpp
+    src/storage/JsonSerializer.h
+)
+
+qt_add_executable(OBL_Project
+    MANUAL_FINALIZATION
+    ${PROJECT_SOURCES}
+)
+
+target_link_libraries(OBL_Project PRIVATE
+    Qt${QT_VERSION_MAJOR}::Widgets
+    Qt${QT_VERSION_MAJOR}::Network
+)
+
+set_target_properties(OBL_Project PROPERTIES
+    MACOSX_BUNDLE_BUNDLE_VERSION ${PROJECT_VERSION}
+    MACOSX_BUNDLE_SHORT_VERSION_STRING ${PROJECT_VERSION_MAJOR}.${PROJECT_VERSION_MINOR}
+    MACOSX_BUNDLE TRUE
+    WIN32_EXECUTABLE TRUE
+)
+
+# Testy
+enable_testing()
+add_subdirectory(tests)
+
+include(GNUInstallDirs)
+install(TARGETS OBL_Project
+    BUNDLE DESTINATION .
+    LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
+    RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}
+)
+
+qt_finalize_executable(OBL_Project)
