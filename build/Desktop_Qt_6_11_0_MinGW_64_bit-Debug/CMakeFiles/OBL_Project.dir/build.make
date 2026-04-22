@@ -304,6 +304,7 @@ OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.obj
 OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.obj
 OBL_Project.exe: CMakeFiles/OBL_Project.dir/build.make
 OBL_Project.exe: C:/Qt/6.11.0/mingw_64/lib/libQt6Widgets.a
+OBL_Project.exe: C:/Qt/6.11.0/mingw_64/lib/libQt6Sql.a
 OBL_Project.exe: C:/Qt/6.11.0/mingw_64/lib/libQt6Network.a
 OBL_Project.exe: C:/Qt/6.11.0/mingw_64/lib/libQt6Gui.a
 OBL_Project.exe: C:/Qt/6.11.0/mingw_64/lib/libQt6Core.a

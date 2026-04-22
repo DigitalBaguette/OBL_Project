@@ -8,7 +8,11 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # 1. Pakiety Qt - wymagane Widgets i Network do komunikacji z Ollama [cite: 93]
-find_package(Qt6 REQUIRED COMPONENTS Widgets Network)
+find_package(Qt6 6.11.0 REQUIRED COMPONENTS
+    Widgets
+    Sql
+    Network
+)
 
 # 2. Inkluzje (jeśli masz dodatkowe biblioteki w folderze include)
 include_directories(${CMAKE_SOURCE_DIR}/include)
@@ -88,6 +92,7 @@ qt_add_executable(OBL_Project
 # 5. Linkowanie bibliotek Qt 
 target_link_libraries(OBL_Project PRIVATE
     Qt6::Widgets
+    Qt6::Sql
     Qt6::Network
 )
 

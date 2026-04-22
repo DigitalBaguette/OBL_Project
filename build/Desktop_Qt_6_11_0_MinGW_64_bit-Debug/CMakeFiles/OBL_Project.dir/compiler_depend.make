@@ -402,6 +402,46 @@ OBL_Project_autogen/timestamp: C:/Qt/6.11.0/mingw_64/include/QtCore/QFlags \
   C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets-relwithdebinfo.cmake \
   C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets.cmake \
   C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargetsPrecheck.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QIBaseDriverPluginAdditionalTargetInfo.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QIBaseDriverPluginConfig.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QIBaseDriverPluginTargets-relwithdebinfo.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QIBaseDriverPluginTargets.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QIBaseDriverPluginTargetsPrecheck.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QMimerSQLDriverPluginAdditionalTargetInfo.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QMimerSQLDriverPluginConfig.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QMimerSQLDriverPluginTargets-relwithdebinfo.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QMimerSQLDriverPluginTargets.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QMimerSQLDriverPluginTargetsPrecheck.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QOCIDriverPluginAdditionalTargetInfo.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QOCIDriverPluginConfig.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QOCIDriverPluginTargets-relwithdebinfo.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QOCIDriverPluginTargets.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QOCIDriverPluginTargetsPrecheck.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginAdditionalTargetInfo.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginConfig.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginTargets-relwithdebinfo.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginTargets.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginTargetsPrecheck.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginAdditionalTargetInfo.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginConfig.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginTargets-relwithdebinfo.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginTargets.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginTargetsPrecheck.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginAdditionalTargetInfo.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginConfig.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginTargets-relwithdebinfo.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginTargets.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginTargetsPrecheck.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlAdditionalTargetInfo.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlConfig.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlConfigVersion.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlConfigVersionImpl.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlDependencies.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlPlugins.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlTargets-relwithdebinfo.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlTargets.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlTargetsPrecheck.cmake \
+  C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlVersionlessAliasTargets.cmake \
   C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginAdditionalTargetInfo.cmake \
   C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginConfig.cmake \
   C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets-relwithdebinfo.cmake \
@@ -707,6 +747,4295 @@ OBL_Project_autogen/timestamp: C:/Qt/6.11.0/mingw_64/include/QtCore/QFlags \
   C:/Users/polsk/Documents/GitHub/OBL_Project/src/storage/JsonSerializer.cpp \
   C:/Users/polsk/Documents/GitHub/OBL_Project/src/storage/JsonSerializer.h
 
+CMakeFiles/OBL_Project.dir/OBL_Project_autogen/mocs_compilation.cpp.obj: OBL_Project_autogen/mocs_compilation.cpp \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QFlags \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QIODevice \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QList \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QMetaType \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QObject \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QSharedDataPointer \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QString \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QStringList \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QUrl \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QVariant \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q17memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20algorithm.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20bit.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20functional.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20iterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q26numeric.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qabstractitemmodel.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qanystringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qassert.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbindingstorage.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcalendar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qchar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcheckedint_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconfig.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcryptographichash.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatetime.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qendian.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qflags.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfloat16.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qforeach.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhash.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiodevice.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qitemselectionmodel.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterable.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qline.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlocale.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlogging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmargins.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmath.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetaobject.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetatype.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qminmax.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnamespace.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnumeric.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qoverload.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qpoint.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qrect.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qregularexpression.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopeguard.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qset.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsize.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qspan.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstring.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qswap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtaggedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtextstream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtmocconstants.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtmochelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtnoop.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtresource.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttranslation.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversion.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qurl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvariant.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvarlengtharray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qaction.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qbitmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qbrush.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qcolor.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qcursor.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfont.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfontinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfontmetrics.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfontvariableaxis.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qicon.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qimage.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qkeysequence.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpaintdevice.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpalette.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpixelformat.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpixmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpolygon.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qregion.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qrgb.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qrgba64.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtgui-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtguiexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtguiglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtransform.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qvalidator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/QNetworkAccessManager \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/QNetworkReply \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/QNetworkRequest \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/QSslConfiguration \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/QSslError \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/QSslPreSharedKeyAuthenticator \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qabstractsocket.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qhostaddress.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qhttpheaders.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qnetworkaccessmanager.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qnetworkreply.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qnetworkrequest.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qssl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslcertificate.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslconfiguration.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslerror.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslpresharedkeyauthenticator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslsocket.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qtcpsocket.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qtnetwork-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qtnetworkexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qtnetworkglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QDialog \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QListWidget \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QVBoxLayout \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QWidget \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractitemdelegate.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractitemview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractscrollarea.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractslider.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractspinbox.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qboxlayout.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qdialog.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qframe.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qgridlayout.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlayout.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlayoutitem.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlistview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlistwidget.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qmainwindow.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qrubberband.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qsizepolicy.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qslider.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qstyle.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qstyleoption.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtabbar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtabwidget.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgets-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgetsexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qwidget.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_list.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multiset.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tree.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/optional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/version \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/errno.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/process.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdio.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/CompanyProfile.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/CompanyInputDialog.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/HistoryWidget.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/MainWindow.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/llm/OllamaClient.h \
+  OBL_Project_autogen/MXUWEOXILK/moc_CompanyInputDialog.cpp \
+  OBL_Project_autogen/MXUWEOXILK/moc_HistoryWidget.cpp \
+  OBL_Project_autogen/MXUWEOXILK/moc_MainWindow.cpp \
+  OBL_Project_autogen/PO2R7MZETR/moc_OllamaClient.cpp
+
+CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/CompanyProfile.cpp
+
+CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/NetworkAnalyzer.cpp \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QDateTime \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QString \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QStringList \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q17memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20bit.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20functional.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qanystringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qassert.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbindingstorage.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcalendar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qchar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconfig.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatetime.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qflags.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfloat16.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qforeach.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhash.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterable.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlocale.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlogging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmath.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetatype.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qminmax.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnamespace.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnumeric.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qoverload.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopeguard.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qset.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstring.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qswap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtaggedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtextstream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtnoop.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtresource.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttranslation.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversion.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvariant.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvarlengtharray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_list.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multiset.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tree.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/optional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/version \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/errno.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/process.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdio.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/CompanyProfile.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/NetworkAnalyzer.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/NetworkProposal.h
+
+CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/NetworkProposal.cpp \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QDateTime \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QString \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q17memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20bit.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20functional.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qanystringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qassert.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbindingstorage.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcalendar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qchar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconfig.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatetime.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qflags.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfloat16.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qforeach.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhash.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterable.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlocale.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlogging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmath.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetatype.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qminmax.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnamespace.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnumeric.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qoverload.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopeguard.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qset.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstring.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qswap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtaggedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtextstream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtnoop.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtresource.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttranslation.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversion.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvariant.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvarlengtharray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_list.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multiset.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tree.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/optional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/version \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/errno.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/process.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdio.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/NetworkProposal.h
+
+CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/CompanyInputDialog.cpp \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QString \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QStringList \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QVariant \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q17memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20bit.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20functional.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20iterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qabstracteventdispatcher.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qanystringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qassert.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbasictimer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbindingstorage.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qchar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcheckedint_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconfig.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcoreapplication.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcoreapplication_platform.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcoreevent.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdeadlinetimer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qendian.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qeventloop.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qflags.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfloat16.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qforeach.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhash.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterable.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qline.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlocale.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlogging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmargins.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmath.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetatype.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qminmax.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnamespace.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnativeinterface.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnumeric.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qoverload.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qpoint.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qrect.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qregularexpression.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopeguard.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qset.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsize.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qspan.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstring.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qswap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtaggedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtextstream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtnoop.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtresource.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttranslation.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversion.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qurl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvariant.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvarlengtharray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qaction.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qbitmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qbrush.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qcolor.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qcursor.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfont.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfontinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfontmetrics.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfontvariableaxis.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qguiapplication.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qguiapplication_platform.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qicon.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qimage.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qinputmethod.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qkeysequence.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpaintdevice.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpalette.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpen.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpixelformat.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpixmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpolygon.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qregion.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qrgb.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qrgba64.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtextcursor.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtextdocument.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtextformat.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtextoption.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtgui-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtguiexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtguiglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtransform.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qvalidator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QAbstractButton \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QApplication \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QDialog \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QDialogButtonBox \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QLineEdit \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QSpinBox \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QVBoxLayout \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractbutton.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractspinbox.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qapplication.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qboxlayout.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qdialog.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qdialogbuttonbox.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qframe.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qgridlayout.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlayout.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlayoutitem.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlineedit.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qsizepolicy.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qspinbox.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgets-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgetsexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qwidget.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_list.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multiset.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tree.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/optional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/version \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/errno.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/process.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdio.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+  OBL_Project_autogen/include/ui_CompanyInputDialog.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/CompanyProfile.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/CompanyInputDialog.h
+
+CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/HistoryWidget.cpp \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q17memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20bit.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20functional.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20iterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qabstractitemmodel.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qanystringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qassert.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbindingstorage.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qchar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcheckedint_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconfig.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qendian.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qflags.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfloat16.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qforeach.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhash.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qitemselectionmodel.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterable.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qline.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlocale.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlogging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmargins.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmath.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetatype.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qminmax.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnamespace.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnumeric.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qoverload.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qpoint.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qrect.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qregularexpression.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopeguard.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qset.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsize.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qspan.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstring.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qswap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtaggedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtextstream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtnoop.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtresource.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttranslation.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversion.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvariant.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvarlengtharray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qaction.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qbitmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qbrush.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qcolor.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qcursor.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfont.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfontinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfontmetrics.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfontvariableaxis.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qicon.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qimage.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qkeysequence.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpaintdevice.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpalette.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpixelformat.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpixmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpolygon.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qregion.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qrgb.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qrgba64.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtgui-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtguiexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtguiglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtransform.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qvalidator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QListWidget \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QVBoxLayout \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QWidget \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractitemdelegate.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractitemview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractscrollarea.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractslider.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractspinbox.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qboxlayout.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qframe.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qgridlayout.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlayout.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlayoutitem.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlistview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlistwidget.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qrubberband.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qsizepolicy.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qslider.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qstyle.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qstyleoption.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtabbar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtabwidget.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgets-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgetsexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qwidget.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_list.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multiset.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tree.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/optional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/version \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/errno.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/process.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdio.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/HistoryWidget.h
+
+CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/MainWindow.cpp \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QFlags \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QIODevice \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QList \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QMetaType \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QObject \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QSharedDataPointer \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QString \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QUrl \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QVariant \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q17memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20bit.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20functional.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20iterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q26numeric.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qabstracteventdispatcher.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qanystringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qassert.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbasictimer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbindingstorage.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcalendar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qchar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcheckedint_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconfig.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcoreapplication.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcoreapplication_platform.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcoreevent.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcryptographichash.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatetime.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdeadlinetimer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qendian.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qeventloop.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qflags.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfloat16.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qforeach.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhash.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiodevice.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterable.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qline.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlocale.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlogging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmargins.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmath.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetaobject.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetatype.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qminmax.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnamespace.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnativeinterface.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnumeric.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qoverload.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qpoint.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qrect.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopeguard.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qset.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsize.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qspan.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstring.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qswap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtaggedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtextstream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtnoop.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtresource.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttranslation.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversion.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qurl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvariant.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvarlengtharray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qaction.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qbitmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qbrush.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qcolor.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qcursor.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfont.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfontinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfontmetrics.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfontvariableaxis.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qguiapplication.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qguiapplication_platform.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qicon.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qimage.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qinputmethod.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qkeysequence.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpaintdevice.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpalette.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpixelformat.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpixmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpolygon.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qregion.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qrgb.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qrgba64.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtgui-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtguiexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtguiglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtransform.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/QNetworkAccessManager \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/QNetworkReply \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/QNetworkRequest \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/QSslConfiguration \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/QSslPreSharedKeyAuthenticator \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qabstractsocket.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qhostaddress.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qhttpheaders.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qnetworkaccessmanager.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qnetworkreply.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qnetworkrequest.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qssl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslcertificate.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslconfiguration.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslerror.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslpresharedkeyauthenticator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslsocket.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qtcpsocket.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qtnetwork-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qtnetworkexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qtnetworkglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QApplication \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMenuBar \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMessageBox \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QPushButton \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QStatusBar \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QVBoxLayout \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QWidget \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractbutton.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qapplication.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qboxlayout.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qdialog.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qdialogbuttonbox.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qgridlayout.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlayout.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlayoutitem.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qmainwindow.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qmenu.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qmenubar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qmessagebox.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qpushbutton.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qsizepolicy.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qstatusbar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtabwidget.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgets-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgetsexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qwidget.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_list.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multiset.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tree.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/optional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/version \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/errno.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/process.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdio.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+  OBL_Project_autogen/include/ui_MainWindow.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/llm/OllamaClient.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/MainWindow.h
+
+CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/NetworkResultWidget.cpp
+
+CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/llm/OllamaClient.cpp \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QFlags \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QIODevice \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QJsonDocument \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QJsonObject \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QList \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QMetaType \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QObject \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QSharedDataPointer \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QString \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QUrl \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QVariant \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q17memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20bit.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20functional.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20iterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q26numeric.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qanystringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qassert.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbindingstorage.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcalendar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcborcommon.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcborvalue.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qchar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconfig.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcryptographichash.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatetime.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qendian.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qflags.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfloat16.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qforeach.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhash.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiodevice.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterable.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qjsondocument.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qjsonobject.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qjsonparseerror.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qjsonvalue.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlocale.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlogging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmath.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetaobject.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetatype.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qminmax.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnamespace.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnumeric.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qoverload.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qregularexpression.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopeguard.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qset.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qspan.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstring.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qswap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtaggedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtextstream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtnoop.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtresource.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttranslation.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversion.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qurl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/quuid.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvariant.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvarlengtharray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/QNetworkAccessManager \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/QNetworkReply \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/QNetworkRequest \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/QSslConfiguration \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/QSslPreSharedKeyAuthenticator \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qabstractsocket.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qhostaddress.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qhttpheaders.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qnetworkaccessmanager.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qnetworkreply.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qnetworkrequest.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qssl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslcertificate.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslconfiguration.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslerror.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslpresharedkeyauthenticator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslsocket.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qtcpsocket.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qtnetwork-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qtnetworkexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtNetwork/qtnetworkglobal.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_list.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multiset.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tree.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/optional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/version \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/errno.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/process.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdio.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/llm/OllamaClient.h
+
+CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/llm/PromptBuilder.cpp \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QString \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QStringList \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q17memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20bit.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20functional.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qanystringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qassert.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qchar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconfig.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qflags.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qforeach.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlogging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qminmax.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnamespace.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnumeric.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qoverload.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstring.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qswap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtnoop.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtresource.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttranslation.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversion.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/optional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/version \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/errno.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/process.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdio.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/CompanyProfile.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/llm/PromptBuilder.h
+
+CMakeFiles/OBL_Project.dir/src/main.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/main.cpp \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q17memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20bit.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20functional.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20iterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qabstracteventdispatcher.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qanystringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qassert.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbasictimer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbindingstorage.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qchar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcheckedint_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconfig.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcoreapplication.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcoreapplication_platform.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcoreevent.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdeadlinetimer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qendian.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qeventloop.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qflags.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfloat16.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qforeach.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhash.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterable.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qline.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlocale.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlogging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmargins.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmath.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetatype.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qminmax.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnamespace.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnativeinterface.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnumeric.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qoverload.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qpoint.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qrect.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopeguard.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qset.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsize.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qspan.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstring.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qswap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtaggedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtextstream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtnoop.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtresource.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttranslation.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversion.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvariant.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvarlengtharray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qaction.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qbitmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qbrush.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qcolor.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qcursor.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfont.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfontinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfontmetrics.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qfontvariableaxis.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qguiapplication.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qguiapplication_platform.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qicon.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qimage.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qinputmethod.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qkeysequence.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpaintdevice.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpalette.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpixelformat.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpixmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qpolygon.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qregion.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qrgb.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qrgba64.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtgui-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtguiexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtguiglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qtransform.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs.h \
+  C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QApplication \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qapplication.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qmainwindow.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qsizepolicy.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtabwidget.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgets-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgetsexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qwidget.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_list.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multiset.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tree.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/optional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/version \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/errno.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/process.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdio.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/MainWindow.h
+
+CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/storage/DatabaseManager.cpp \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QDateTime \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QDebug \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QString \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q17memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20bit.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20functional.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qanystringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qassert.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbindingstorage.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcalendar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qchar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconfig.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatetime.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qflags.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfloat16.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qforeach.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhash.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterable.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlocale.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlogging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmath.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetaobject.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetatype.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qminmax.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnamespace.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnumeric.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qoverload.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopeguard.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qset.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstring.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qswap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtaggedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtextstream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtnoop.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtresource.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttranslation.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversion.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvariant.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvarlengtharray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/6.11.0/mingw_64/include/QtSql/QSqlDatabase \
+  C:/Qt/6.11.0/mingw_64/include/QtSql/QSqlError \
+  C:/Qt/6.11.0/mingw_64/include/QtSql/QSqlQuery \
+  C:/Qt/6.11.0/mingw_64/include/QtSql/qsqldatabase.h \
+  C:/Qt/6.11.0/mingw_64/include/QtSql/qsqlerror.h \
+  C:/Qt/6.11.0/mingw_64/include/QtSql/qsqlquery.h \
+  C:/Qt/6.11.0/mingw_64/include/QtSql/qtsql-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtSql/qtsqlexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtSql/qtsqlglobal.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_list.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multiset.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tree.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/optional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/version \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/errno.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/process.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdio.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/NetworkProposal.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/storage/DatabaseManager.h
+
+CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/storage/JsonSerializer.cpp \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QDateTime \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QJsonDocument \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QJsonObject \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QString \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/QStringList \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q17memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20bit.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20functional.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20memory.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q20utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23type_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/q23utility.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qanystringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qassert.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbindingstorage.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcalendar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcborcommon.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcborvalue.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qchar.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconfig.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdatetime.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qendian.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qflags.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfloat16.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qforeach.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhash.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterable.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qjsondocument.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qjsonobject.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qjsonparseerror.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qjsonvalue.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlocale.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qlogging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmalloc.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmath.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qmetatype.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qminmax.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnamespace.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qnumeric.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobject_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qoverload.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qregularexpression.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qscopeguard.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qset.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstring.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringlist.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qstringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qswap.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtaggedpointer.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtextstream.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtnoop.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtresource.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttranslation.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversion.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qurl.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/quuid.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvariant.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qvarlengtharray.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Qt/6.11.0/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/atomic \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocated_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_list.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multiset.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_numeric.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_raw_storage_iter.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tree.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stream_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_set.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concurrence.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iterator \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/list \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/memory \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/optional \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_set \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/version \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/assert.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/errno.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/locale.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/process.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdio.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/CompanyProfile.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/NetworkProposal.h \
+  C:/Users/polsk/Documents/GitHub/OBL_Project/src/storage/JsonSerializer.h
+
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qurl.h:
 
@@ -716,13 +5045,13 @@ C:/Qt/6.11.0/mingw_64/include/QtCore/QFlags:
 
 C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/CompanyProfile.cpp:
 
-C:/Qt/6.11.0/mingw_64/include/QtCore/QIODevice:
-
-C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake:
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h:
+C:/Qt/6.11.0/mingw_64/include/QtCore/QIODevice:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslcertificate.h:
 
@@ -742,6 +5071,8 @@ C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractspinbox.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake:
 
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginConfig.cmake:
+
 C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionaltools_impl.h:
@@ -752,19 +5083,23 @@ C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerinfo.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/QObject:
 
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginAdditionalTargetInfo.cmake:
+
 C:/Qt/6.11.0/mingw_64/include/QtCore/qcryptographichash.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qcompare.h:
 
-C:/Qt/6.11.0/mingw_64/include/QtCore/QUrl:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/list.tcc:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/QUrl:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/q20memory.h:
 
-C:/Qt/6.11.0/mingw_64/include/QtCore/QVariant:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/QVariant:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qttranslation.h:
 
@@ -788,17 +5123,21 @@ C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicGitHelpers.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake:
 
-C:/Qt/6.11.0/mingw_64/include/QtCore/qtaggedpointer.h:
-
 C:/Qt/6.11.0/mingw_64/include/QtCore/qglobal.h:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h:
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QIBaseDriverPluginTargets.cmake:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/qtaggedpointer.h:
+
+C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stdarg.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qfunctionpointer.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/q23type_traits.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargetsPrecheck.cmake:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlTargets.cmake:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h:
 
@@ -822,11 +5161,15 @@ C:/Qt/6.11.0/mingw_64/include/QtCore/q20iterator.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtGui/qtguiglobal.h:
 
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QIBaseDriverPluginTargetsPrecheck.cmake:
+
 C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/MainWindow.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_multimap.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/q20type_traits.h:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/q20utility.h:
 
@@ -839,6 +5182,8 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allo
 C:/Qt/6.11.0/mingw_64/include/QtCore/q23utility.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake:
+
+C:/Qt/6.11.0/mingw_64/include/QtSql/qsqlerror.h:
 
 C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/NetworkProposal.h:
 
@@ -876,6 +5221,8 @@ C:/Qt/6.11.0/mingw_64/include/QtCore/qanystringview.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake:
 
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginTargets-relwithdebinfo.cmake:
+
 C:/Qt/6.11.0/mingw_64/include/QtCore/qarraydatapointer.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginAdditionalTargetInfo.cmake:
@@ -902,7 +5249,11 @@ C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets-re
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-relwithdebinfo.cmake:
 
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginTargets.cmake:
+
 C:/Qt/6.11.0/mingw_64/include/QtCore/qdebug.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/qmenu.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qbytearray.h:
 
@@ -924,8 +5275,6 @@ C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qcontainerfwd.h:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h:
-
 C:/Qt/6.11.0/mingw_64/include/QtCore/qchar.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qcompilerdetection.h:
@@ -939,8 +5288,6 @@ C:/Qt/6.11.0/mingw_64/include/QtGui/qpaintdevice.h:
 C:/Users/polsk/Documents/GitHub/OBL_Project/src/storage/JsonSerializer.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qdatetime.h:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qendian.h:
 
@@ -982,6 +5329,8 @@ C:/Qt/6.11.0/mingw_64/include/QtNetwork/QSslPreSharedKeyAuthenticator:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qiodevicebase.h:
 
+C:/Qt/6.11.0/mingw_64/include/QtSql/QSqlDatabase:
+
 C:/Qt/6.11.0/mingw_64/include/QtCore/qitemselectionmodel.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtWidgets/QDialog:
@@ -1006,19 +5355,21 @@ C:/Qt/6.11.0/mingw_64/include/QtCore/qlatin1stringview.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake:
 
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/QWidget:
+
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qlist.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtGui/qvalidator.h:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h:
-
-C:/Qt/6.11.0/mingw_64/include/QtWidgets/QWidget:
-
 C:/Qt/6.11.0/mingw_64/include/QtCore/qlocale.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtGui/qcursor.h:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginConfig.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake:
 
@@ -1050,11 +5401,13 @@ C:/Qt/6.11.0/mingw_64/include/QtCore/qmetaobject.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qmetatype.h:
 
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginTargets.cmake:
+
 C:/Qt/6.11.0/mingw_64/include/QtCore/qminmax.h:
 
-C:/Qt/6.11.0/mingw_64/include/QtCore/qnamespace.h:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/qnamespace.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qnumeric.h:
 
@@ -1062,21 +5415,23 @@ C:/Qt/6.11.0/mingw_64/include/QtCore/qtypes.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qobject.h:
 
-C:/Qt/6.11.0/mingw_64/include/QtCore/qobject_impl.h:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc:
 
-C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h:
-
-C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h:
+C:/Qt/6.11.0/mingw_64/include/QtCore/qobject_impl.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginConfig.cmake:
+
+C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_compat.h:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlTargetsPrecheck.cmake:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qobjectdefs_impl.h:
 
@@ -1096,7 +5451,13 @@ C:/Qt/6.11.0/mingw_64/include/QtCore/qpoint.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtNetwork/QNetworkRequest:
 
+C:/Qt/6.11.0/mingw_64/include/QtCore/QDebug:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/qdeadlinetimer.h:
+
 C:/Qt/6.11.0/mingw_64/include/QtCore/qprocessordetection.h:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginTargetsPrecheck.cmake:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qrect.h:
 
@@ -1120,11 +5481,17 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w6
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-relwithdebinfo.cmake:
 
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QOCIDriverPluginTargets.cmake:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlDependencies.cmake:
+
 C:/Qt/6.11.0/mingw_64/include/QtCore/qset.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qshareddata_impl.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlineedit.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer.h:
 
@@ -1136,15 +5503,21 @@ C:/Qt/6.11.0/mingw_64/include/QtCore/qsharedpointer_impl.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginConfig.cmake:
 
+C:/Qt/6.11.0/mingw_64/include/QtGui/qtextcursor.h:
+
 C:/Qt/6.11.0/mingw_64/include/QtCore/qsize.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qspan.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qstdlibdetection.h:
 
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/qspinbox.h:
+
 C:/Qt/6.11.0/mingw_64/include/QtCore/qstring.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qstringalgorithms.h:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginConfig.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6NetworkPlugins.cmake:
 
@@ -1158,6 +5531,8 @@ C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMainWindow:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qstringlist.h:
 
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QMimerSQLDriverPluginTargets.cmake:
+
 C:/Qt/6.11.0/mingw_64/include/QtCore/qstringmatcher.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qstringtokenizer.h:
@@ -1165,8 +5540,6 @@ C:/Qt/6.11.0/mingw_64/include/QtCore/qstringtokenizer.h:
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginConfig.cmake:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qstringview.h:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qswap.h:
 
@@ -1181,6 +5554,8 @@ C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsAdditionalTargetI
 C:/Qt/6.11.0/mingw_64/include/QtCore/qsysinfo.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qsystemdetection.h:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlVersionlessAliasTargets.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets-relwithdebinfo.cmake:
 
@@ -1198,9 +5573,9 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qtcore-config.h:
 
-C:/Qt/Tools/CMake_64/bin/cmake.exe:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h:
+
+C:/Qt/Tools/CMake_64/bin/cmake.exe:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qtcoreexports.h:
 
@@ -1240,25 +5615,31 @@ C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargetsPrecheck.cmake:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qtypeinfo.h:
 
+C:/Qt/6.11.0/mingw_64/include/QtGui/qguiapplication.h:
+
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginAdditionalTargetInfo.cmake:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qutf8stringview.h:
 
-C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h:
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlConfigVersion.cmake:
 
-C:/Qt/6.11.0/mingw_64/include/QtCore/qvariant.h:
+C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake:
+
+C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/ctype.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr.h:
 
-C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake:
+C:/Qt/6.11.0/mingw_64/include/QtCore/qvariant.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtCore/qvarlengtharray.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomQtEntityHelpers.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsTargetsPrecheck.cmake:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/qcoreapplication_platform.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view:
 
@@ -1328,11 +5709,15 @@ C:/Qt/6.11.0/mingw_64/include/QtGui/qtguiexports.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtWidgets/qgridlayout.h:
 
-C:/Qt/6.11.0/mingw_64/include/QtGui/qtransform.h:
+C:/Qt/6.11.0/mingw_64/include/QtGui/qtextoption.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h:
 
+C:/Qt/6.11.0/mingw_64/include/QtGui/qtransform.h:
+
 C:/Qt/6.11.0/mingw_64/include/QtGui/qwindowdefs_win.h:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.0/mingw_64/include/QtNetwork/QNetworkReply:
 
@@ -1360,6 +5745,8 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_
 
 C:/Qt/6.11.0/mingw_64/include/QtNetwork/qnetworkrequest.h:
 
+C:/Qt/6.11.0/mingw_64/include/QtCore/qcoreevent.h:
+
 C:/Qt/6.11.0/mingw_64/include/QtNetwork/qssl.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslconfiguration.h:
@@ -1368,6 +5755,8 @@ C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/crtdefs.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslerror.h:
 
+C:/Qt/6.11.0/mingw_64/include/QtCore/qcoreapplication.h:
+
 C:/Qt/6.11.0/mingw_64/include/QtWidgets/qframe.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslpresharedkeyauthenticator.h:
@@ -1375,6 +5764,8 @@ C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslpresharedkeyauthenticator.h:
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new:
 
 C:/Qt/6.11.0/mingw_64/include/QtNetwork/qsslsocket.h:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QMimerSQLDriverPluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.0/mingw_64/include/QtNetwork/qtcpsocket.h:
 
@@ -1392,6 +5783,10 @@ C:/Qt/6.11.0/mingw_64/include/QtWidgets/QListWidget:
 
 C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractitemview.h:
 
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginTargets-relwithdebinfo.cmake:
+
+C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h:
+
 C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/HistoryWidget.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractslider.h:
@@ -1406,13 +5801,15 @@ C:/Qt/6.11.0/mingw_64/include/QtWidgets/qdialog.h:
 
 C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlayout.h:
 
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/QDialogButtonBox:
+
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numeric:
 
 C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlistview.h:
 
-C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake:
 
 C:/Qt/6.11.0/mingw_64/include/QtWidgets/qlistwidget.h:
 
@@ -1442,19 +5839,19 @@ C:/Qt/6.11.0/mingw_64/include/QtWidgets/qtabwidget.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake:
 
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/QLineEdit:
+
 C:/Qt/6.11.0/mingw_64/include/QtWidgets/qwidget.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/FindWrapAtomic.cmake:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h:
-
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake:
 
-C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake:
 
@@ -1485,6 +5882,8 @@ C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicAndroidHelpers.cmake:
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomCpeHelpers.cmake:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QMimerSQLDriverPluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:
 
@@ -1540,11 +5939,11 @@ C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckLibraryExists.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargetsPrecheck.cmake:
 
-C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake:
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargetsPrecheck.cmake:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h:
 
-C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargetsPrecheck.cmake:
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake:
 
@@ -1555,8 +5954,6 @@ C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake:
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicWindowsHelpers.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake:
 
@@ -1594,6 +5991,8 @@ C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_timeval.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake:
 
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlAdditionalTargetInfo.cmake:
+
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointMinGW32Target.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginAdditionalTargetInfo.cmake:
@@ -1606,7 +6005,11 @@ C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateAdditio
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake:
 
+C:/Qt/6.11.0/mingw_64/include/QtCore/qjsonparseerror.h:
+
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersion.cmake:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/QJsonObject:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersionImpl.cmake:
 
@@ -1615,6 +6018,8 @@ C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginTargets-relw
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginTargetsPrecheck.cmake:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/align.h:
 
@@ -1626,11 +6031,11 @@ C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake:
 
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginTargets.cmake:
+
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6GuiVersionlessAliasTargets.cmake:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginConfig.cmake:
 
@@ -1644,6 +6049,8 @@ C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cma
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_base.h:
 
+C:/Qt/6.11.0/mingw_64/include/QtCore/qnativeinterface.h:
+
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake:
@@ -1654,11 +6061,11 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/strin
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake:
 
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h:
+
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets.cmake:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake:
 
@@ -1682,6 +6089,8 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginConfig.cmake:
 
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QMimerSQLDriverPluginTargetsPrecheck.cmake:
+
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake:
@@ -1698,6 +6107,8 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargetsPrecheck.cmake:
 
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/QApplication:
+
 C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/string_s.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake:
@@ -1708,21 +6119,27 @@ C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-relwithdebinfo.cmake:
 
-C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargetsPrecheck.cmake:
+C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h:
 
-C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake:
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargetsPrecheck.cmake:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QIBaseDriverPluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginConfig.cmake:
+
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/qmenubar.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets-relwithdebinfo.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargetsPrecheck.cmake:
+
+C:/Qt/6.11.0/mingw_64/include/QtGui/qinputmethod.h:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsAdditionalTargetInfo.cmake:
 
@@ -1756,11 +6173,41 @@ C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6QNLMNIPluginTargetsPrecheck.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginTargets.cmake:
 
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QOCIDriverPluginTargets-relwithdebinfo.cmake:
+
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginTargetsPrecheck.cmake:
 
-C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginConfig.cmake:
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QIBaseDriverPluginConfig.cmake:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h:
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QIBaseDriverPluginTargets-relwithdebinfo.cmake:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QMimerSQLDriverPluginConfig.cmake:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QOCIDriverPluginAdditionalTargetInfo.cmake:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QOCIDriverPluginConfig.cmake:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h:
+
+C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QOCIDriverPluginTargetsPrecheck.cmake:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginTargetsPrecheck.cmake:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginAdditionalTargetInfo.cmake:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginTargetsPrecheck.cmake:
+
+C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlConfig.cmake:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlConfigVersionImpl.cmake:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlPlugins.cmake:
+
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginConfig.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:
 
@@ -1778,11 +6225,9 @@ C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessAliasTargets.cma
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake:
 
-C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc:
+C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake:
 
 C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersionImpl.cmake:
 
@@ -1814,19 +6259,15 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/concu
 
 C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h:
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/QStatusBar:
 
 C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GNU.cmake:
 
 C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h:
-
 C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindThreads.cmake:
 
 C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake:
-
-C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake:
 
 C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake:
 
@@ -1848,27 +6289,45 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algo
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/atomic_lockfree_defines.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h:
 
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h:
+
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h:
 
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h:
+
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h:
 
@@ -1876,11 +6335,15 @@ C:/Users/polsk/Documents/GitHub/OBL_Project/src/storage/DatabaseManager.cpp:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h:
 
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h:
+
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_atomic.h:
+
+OBL_Project_autogen/MXUWEOXILK/moc_HistoryWidget.cpp:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/shared_ptr_base.h:
 
@@ -1916,6 +6379,8 @@ C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/CompanyInputDialog.ui:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc:
 
+C:/Qt/6.11.0/mingw_64/include/QtCore/qeventloop.h:
+
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unique_ptr.h:
@@ -1923,6 +6388,8 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniq
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_set.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h:
+
+C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/math.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/map:
 
@@ -1936,9 +6403,13 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/chrono:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits:
 
+C:/Qt/6.11.0/mingw_64/include/QtCore/quuid.h:
+
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath:
+
+C:/Qt/6.11.0/mingw_64/include/QtSql/qsqlquery.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare:
 
@@ -1986,6 +6457,8 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_numeric_defs.h:
 
+C:/Qt/6.11.0/mingw_64/include/QtGui/qtextformat.h:
+
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/set:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept:
@@ -2002,6 +6475,8 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc:
 
+C:/Qt/6.11.0/mingw_64/include/QtCore/QDateTime:
+
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc:
@@ -2015,8 +6490,6 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo:
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/variant:
-
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector:
 
 C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_stat64.h:
 
@@ -2032,7 +6505,11 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h:
 
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/qapplication.h:
+
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtSql/QSqlError:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h:
 
@@ -2058,6 +6535,8 @@ C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_signal.h:
 
 C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/pthread_time.h:
 
+OBL_Project_autogen/include/ui_CompanyInputDialog.h:
+
 C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h:
 
 C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h:
@@ -2066,7 +6545,7 @@ C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/signal.h:
 
 C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdio.h:
 
-C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/string.h:
+C:/Qt/6.11.0/mingw_64/include/QtSql/qtsqlglobal.h:
 
 C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/swprintf.inl:
 
@@ -2100,6 +6579,8 @@ C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/CompanyInputDialog.cpp:
 
 C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/HistoryWidget.cpp:
 
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h:
+
 C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/MainWindow.cpp:
 
 C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/MainWindow.ui:
@@ -2107,6 +6588,8 @@ C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/MainWindow.ui:
 C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/NetworkResultWidget.cpp:
 
 C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/NetworkResultWidget.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtSql/QSqlQuery:
 
 C:/Users/polsk/Documents/GitHub/OBL_Project/src/llm/OllamaClient.cpp:
 
@@ -2117,3 +6600,81 @@ C:/Users/polsk/Documents/GitHub/OBL_Project/src/llm/PromptBuilder.cpp:
 C:/Users/polsk/Documents/GitHub/OBL_Project/src/storage/DatabaseManager.h:
 
 C:/Users/polsk/Documents/GitHub/OBL_Project/src/storage/JsonSerializer.cpp:
+
+OBL_Project_autogen/mocs_compilation.cpp:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/q20algorithm.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/qtmocconstants.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/qtmochelpers.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtNetwork/QSslError:
+
+C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdlib.h:
+
+C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/limits.h:
+
+C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/malloc.h:
+
+C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdarg.h:
+
+C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stddef.h:
+
+C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/stdint.h:
+
+OBL_Project_autogen/MXUWEOXILK/moc_CompanyInputDialog.cpp:
+
+OBL_Project_autogen/MXUWEOXILK/moc_MainWindow.cpp:
+
+OBL_Project_autogen/PO2R7MZETR/moc_OllamaClient.cpp:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/qabstracteventdispatcher.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/qbasictimer.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtGui/qguiapplication_platform.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtGui/qpen.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtGui/qtextdocument.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/QAbstractButton:
+
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/QSpinBox:
+
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/qabstractbutton.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/qdialogbuttonbox.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMenuBar:
+
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/QMessageBox:
+
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/QPushButton:
+
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/qmessagebox.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/qpushbutton.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtWidgets/qstatusbar.h:
+
+OBL_Project_autogen/include/ui_MainWindow.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/QJsonDocument:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/qcborcommon.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/qcborvalue.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/qjsondocument.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/qjsonobject.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtCore/qjsonvalue.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtSql/qsqldatabase.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtSql/qtsql-config.h:
+
+C:/Qt/6.11.0/mingw_64/include/QtSql/qtsqlexports.h:
