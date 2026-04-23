@@ -1,0 +1,144 @@
+\doxysection{Network\+Proposal Class Reference}
+\hypertarget{class_network_proposal}{}\label{class_network_proposal}\index{NetworkProposal@{NetworkProposal}}
+
+
+Model danych przechowujący kompletną propozycję konfiguracji sieciowej.  
+
+
+
+
+{\ttfamily \+\#include $<$Network\+Proposal.\+h$>$}
+
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\doxymbox{\hyperlink{class_network_proposal_a43fc796a8b1d62ccd875392658c41745}{Network\+Proposal}} ()=default
+\begin{DoxyCompactList}\small\item\em Domyślny konstruktor obiektu propozycji. \end{DoxyCompactList}\item 
+QJson\+Object \doxymbox{\hyperlink{class_network_proposal_a596c4cae9a7716ae9b0fec8a3e832f76}{to\+Json}} () const
+\begin{DoxyCompactList}\small\item\em Konwertuje stan obiektu na format JSON. Metoda umożliwia trwałe zapisanie projektu w bazie danych przy zachowaniu pełnej struktury obiektowej. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \doxymbox{\hyperlink{class_network_proposal}{Network\+Proposal}} \doxymbox{\hyperlink{class_network_proposal_a2514ce4194bcbbf3f42bab4ec4ac858f}{from\+Json}} (const QJson\+Object \&json)
+\begin{DoxyCompactList}\small\item\em Fabryka tworząca obiekt propozycji na podstawie danych JSON. Wykorzystywana przy odczycie historycznych projektów z bazy danych. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+QString \doxymbox{\hyperlink{class_network_proposal_afd9330a6018b06a1ef4f06fa02f6407e}{raw\+Content}}
+\begin{DoxyCompactList}\small\item\em Surowa treść odpowiedzi wygenerowanej przez model językowy. Zawiera szczegółowe specyfikacje urządzeń, adresację IP i uzasadnienie projektowe. \end{DoxyCompactList}\item 
+\doxymbox{\hyperlink{struct_company_profile}{Company\+Profile}} \doxymbox{\hyperlink{class_network_proposal_a1f66fd3b810371139d409f46ca207f84}{profile}}
+\begin{DoxyCompactList}\small\item\em Profil firmy powiązany z daną propozycją. Przechowuje parametry wejściowe takie jak liczba pracowników i budżet. \end{DoxyCompactList}\item 
+QDate\+Time \doxymbox{\hyperlink{class_network_proposal_a895742e11bbdeba80a1cf1a55d16a56f}{timestamp}}
+\begin{DoxyCompactList}\small\item\em Znacznik czasu określający moment utworzenia propozycji. \end{DoxyCompactList}\item 
+QString \doxymbox{\hyperlink{class_network_proposal_ae6115fa0689e03b3fe614f44c3ef04a8}{id}}
+\begin{DoxyCompactList}\small\item\em Unikalny identyfikator propozycji (zazwyczaj UUID). \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Model danych przechowujący kompletną propozycję konfiguracji sieciowej. 
+
+
+\begin{DoxyItemize}
+\item Klasa integruje dane wejściowe klienta (\doxylink{struct_company_profile}{Company\+Profile}) z wynikiem generowania AI. Obsługuje mechanizmy serializacji i deserializacji JSON, co umożliwia elastyczne przechowywanie danych w bazach No\+SQL lub polach tekstowych SQL. 
+\end{DoxyItemize}
+
+\label{doc-constructors}
+\Hypertarget{class_network_proposal_doc-constructors}
+\doxysubsection{Constructor \& Destructor Documentation}
+\Hypertarget{class_network_proposal_a43fc796a8b1d62ccd875392658c41745}\index{NetworkProposal@{NetworkProposal}!NetworkProposal@{NetworkProposal}}
+\index{NetworkProposal@{NetworkProposal}!NetworkProposal@{NetworkProposal}}
+\doxysubsubsection{\texorpdfstring{NetworkProposal()}{NetworkProposal()}}
+{\footnotesize\ttfamily \label{class_network_proposal_a43fc796a8b1d62ccd875392658c41745} 
+Network\+Proposal::\+\+Network\+Proposal (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [default]}}
+
+
+
+Domyślny konstruktor obiektu propozycji. 
+
+
+
+\label{doc-func-members}
+\Hypertarget{class_network_proposal_doc-func-members}
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_network_proposal_a2514ce4194bcbbf3f42bab4ec4ac858f}\index{NetworkProposal@{NetworkProposal}!fromJson@{fromJson}}
+\index{fromJson@{fromJson}!NetworkProposal@{NetworkProposal}}
+\doxysubsubsection{\texorpdfstring{fromJson()}{fromJson()}}
+{\footnotesize\ttfamily \label{class_network_proposal_a2514ce4194bcbbf3f42bab4ec4ac858f} 
+\doxymbox{\hyperlink{class_network_proposal}{Network\+Proposal}} Network\+Proposal::\+from\+Json (\begin{DoxyParamCaption}\item[{const QJson\+Object \&}]{json}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Fabryka tworząca obiekt propozycji na podstawie danych JSON. Wykorzystywana przy odczycie historycznych projektów z bazy danych. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em json} & Obiekt JSON pobrany z warstwy storage. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+\doxylink{class_network_proposal}{Network\+Proposal} Kompletnie zainicjalizowany obiekt propozycji. 
+\end{DoxyReturn}
+\Hypertarget{class_network_proposal_a596c4cae9a7716ae9b0fec8a3e832f76}\index{NetworkProposal@{NetworkProposal}!toJson@{toJson}}
+\index{toJson@{toJson}!NetworkProposal@{NetworkProposal}}
+\doxysubsubsection{\texorpdfstring{toJson()}{toJson()}}
+{\footnotesize\ttfamily \label{class_network_proposal_a596c4cae9a7716ae9b0fec8a3e832f76} 
+QJson\+Object Network\+Proposal::\+to\+Json (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption}) const}
+
+
+
+Konwertuje stan obiektu na format JSON. Metoda umożliwia trwałe zapisanie projektu w bazie danych przy zachowaniu pełnej struktury obiektowej. 
+
+\begin{DoxyReturn}{Returns}
+QJson\+Object Reprezentacja danych propozycji w formacie klucz-\/wartość. 
+\end{DoxyReturn}
+
+
+\label{doc-variable-members}
+\Hypertarget{class_network_proposal_doc-variable-members}
+\doxysubsection{Member Data Documentation}
+\Hypertarget{class_network_proposal_ae6115fa0689e03b3fe614f44c3ef04a8}\index{NetworkProposal@{NetworkProposal}!id@{id}}
+\index{id@{id}!NetworkProposal@{NetworkProposal}}
+\doxysubsubsection{\texorpdfstring{id}{id}}
+{\footnotesize\ttfamily \label{class_network_proposal_ae6115fa0689e03b3fe614f44c3ef04a8} 
+QString Network\+Proposal::\+id}
+
+
+
+Unikalny identyfikator propozycji (zazwyczaj UUID). 
+
+\Hypertarget{class_network_proposal_a1f66fd3b810371139d409f46ca207f84}\index{NetworkProposal@{NetworkProposal}!profile@{profile}}
+\index{profile@{profile}!NetworkProposal@{NetworkProposal}}
+\doxysubsubsection{\texorpdfstring{profile}{profile}}
+{\footnotesize\ttfamily \label{class_network_proposal_a1f66fd3b810371139d409f46ca207f84} 
+\doxymbox{\hyperlink{struct_company_profile}{Company\+Profile}} Network\+Proposal::\+profile}
+
+
+
+Profil firmy powiązany z daną propozycją. Przechowuje parametry wejściowe takie jak liczba pracowników i budżet. 
+
+\Hypertarget{class_network_proposal_afd9330a6018b06a1ef4f06fa02f6407e}\index{NetworkProposal@{NetworkProposal}!rawContent@{rawContent}}
+\index{rawContent@{rawContent}!NetworkProposal@{NetworkProposal}}
+\doxysubsubsection{\texorpdfstring{rawContent}{rawContent}}
+{\footnotesize\ttfamily \label{class_network_proposal_afd9330a6018b06a1ef4f06fa02f6407e} 
+QString Network\+Proposal::\+raw\+Content}
+
+
+
+Surowa treść odpowiedzi wygenerowanej przez model językowy. Zawiera szczegółowe specyfikacje urządzeń, adresację IP i uzasadnienie projektowe. 
+
+\Hypertarget{class_network_proposal_a895742e11bbdeba80a1cf1a55d16a56f}\index{NetworkProposal@{NetworkProposal}!timestamp@{timestamp}}
+\index{timestamp@{timestamp}!NetworkProposal@{NetworkProposal}}
+\doxysubsubsection{\texorpdfstring{timestamp}{timestamp}}
+{\footnotesize\ttfamily \label{class_network_proposal_a895742e11bbdeba80a1cf1a55d16a56f} 
+QDate\+Time Network\+Proposal::\+timestamp}
+
+
+
+Znacznik czasu określający moment utworzenia propozycji. 
+
+
+
+The documentation for this class was generated from the following files:\+\begin{DoxyCompactItemize}
+\item 
+src/\+core/\+\doxymbox{\hyperlink{_network_proposal_8h}{Network\+Proposal.\+h}}\item 
+src/\+core/\+\doxymbox{\hyperlink{_network_proposal_8cpp}{Network\+Proposal.\+cpp}}\end{DoxyCompactItemize}

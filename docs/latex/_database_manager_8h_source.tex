@@ -1,0 +1,65 @@
+\doxysection{Database\+Manager.\+h}
+\hypertarget{_database_manager_8h_source}{}\label{_database_manager_8h_source}\index{src/storage/DatabaseManager.h@{src/storage/DatabaseManager.h}}
+\doxymbox{\hyperlink{_database_manager_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{00001\ }
+\DoxyCodeLine{00007\ }
+\DoxyCodeLine{00008\ \textcolor{preprocessor}{\#ifndef\ DATABASEMANAGER\_H}}
+\DoxyCodeLine{00009\ \textcolor{preprocessor}{\#define\ DATABASEMANAGER\_H}}
+\DoxyCodeLine{00010\ }
+\DoxyCodeLine{00011\ \textcolor{preprocessor}{\#include\ <QObject>}}
+\DoxyCodeLine{00012\ \textcolor{preprocessor}{\#include\ <QThread>}}
+\DoxyCodeLine{00013\ \textcolor{preprocessor}{\#include\ <QSqlDatabase>}}
+\DoxyCodeLine{00014\ \textcolor{preprocessor}{\#include\ <QSqlQuery>}}
+\DoxyCodeLine{00015\ \textcolor{preprocessor}{\#include\ <QSqlError>}}
+\DoxyCodeLine{00016\ \textcolor{preprocessor}{\#include\ "{}\doxymbox{\hyperlink{_network_proposal_8h}{../core/NetworkProposal.h}}"{}}}
+\DoxyCodeLine{00017\ }
+\DoxyCodeLine{00025\ \textcolor{keyword}{class\ }\doxymbox{\hyperlink{class_database_worker_a4603b7d3619b9791de747d3fea65d913}{DatabaseWorker}}\ :\ \textcolor{keyword}{public}\ QObject\ \{}
+\DoxyCodeLine{00026\ \ \ \ \ Q\_OBJECT}
+\DoxyCodeLine{00027\ \textcolor{keyword}{public}:}
+\DoxyCodeLine{00032\ \ \ \ \ \textcolor{keyword}{explicit}\ \doxymbox{\hyperlink{class_database_worker_a4603b7d3619b9791de747d3fea65d913}{DatabaseWorker}}(QObject\ *parent\ =\ \textcolor{keyword}{nullptr})\ :\ QObject(parent)\ \{\}}
+\DoxyCodeLine{00033\ }
+\DoxyCodeLine{00034\ \textcolor{keyword}{public}\ slots:}
+\DoxyCodeLine{00039\ \ \ \ \ \textcolor{keywordtype}{void}\ \doxymbox{\hyperlink{class_database_worker_af8317add5e80166cc4042b3304a30f54}{onInit}}(\textcolor{keyword}{const}\ QString\ \&dbName);}
+\DoxyCodeLine{00040\ }
+\DoxyCodeLine{00045\ \ \ \ \ \textcolor{keywordtype}{void}\ \doxymbox{\hyperlink{class_database_worker_ab7d4558a2b49ebbbfa9626cd55a83f6d}{onSave}}(\textcolor{keyword}{const}\ \doxymbox{\hyperlink{class_network_proposal}{NetworkProposal}}\ \&proposal);}
+\DoxyCodeLine{00046\ }
+\DoxyCodeLine{00050\ \ \ \ \ \textcolor{keywordtype}{void}\ \doxymbox{\hyperlink{class_database_worker_a85283466bec47a80f03dc49acd93bf28}{onLoadAll}}();}
+\DoxyCodeLine{00051\ }
+\DoxyCodeLine{00052\ signals:}
+\DoxyCodeLine{00058\ \ \ \ \ \textcolor{keywordtype}{void}\ \doxymbox{\hyperlink{class_database_worker_a2ac797492ac8976ff75d2e26702161a5}{operationFinished}}(\textcolor{keywordtype}{bool}\ success,\ \textcolor{keyword}{const}\ QString\ \&message);}
+\DoxyCodeLine{00059\ }
+\DoxyCodeLine{00064\ \ \ \ \ \textcolor{keywordtype}{void}\ \doxymbox{\hyperlink{class_database_worker_a99e112d092d514c3a1e2935d05ba0a7e}{dataLoaded}}(\textcolor{keyword}{const}\ QList<NetworkProposal>\ \&proposals);}
+\DoxyCodeLine{00065\ \};}
+\DoxyCodeLine{00066\ }
+\DoxyCodeLine{00074\ \textcolor{keyword}{class\ }\doxymbox{\hyperlink{class_database_manager_aebfb8cc7427256623ccbe059b30b6450}{DatabaseManager}}\ :\ \textcolor{keyword}{public}\ QObject\ \{}
+\DoxyCodeLine{00075\ \ \ \ \ Q\_OBJECT}
+\DoxyCodeLine{00076\ \textcolor{keyword}{public}:}
+\DoxyCodeLine{00080\ \ \ \ \ \textcolor{keyword}{explicit}\ \doxymbox{\hyperlink{class_database_manager_aebfb8cc7427256623ccbe059b30b6450}{DatabaseManager}}(QObject\ *parent\ =\ \textcolor{keyword}{nullptr});}
+\DoxyCodeLine{00081\ }
+\DoxyCodeLine{00085\ \ \ \ \ \doxymbox{\hyperlink{class_database_manager_ae9b3a5da1e04fbb00faf8a034da1d063}{\string~DatabaseManager}}();}
+\DoxyCodeLine{00086\ }
+\DoxyCodeLine{00091\ \ \ \ \ \textcolor{keywordtype}{void}\ \doxymbox{\hyperlink{class_database_manager_a5b7b7cd32256db7f301795f4042db032}{initAsync}}(\textcolor{keyword}{const}\ QString\ \&dbName);}
+\DoxyCodeLine{00092\ }
+\DoxyCodeLine{00097\ \ \ \ \ \textcolor{keywordtype}{void}\ \doxymbox{\hyperlink{class_database_manager_af8456e9ed7af02a17b66c1d109ada71c}{saveProposalAsync}}(\textcolor{keyword}{const}\ \doxymbox{\hyperlink{class_network_proposal}{NetworkProposal}}\ \&proposal);}
+\DoxyCodeLine{00098\ }
+\DoxyCodeLine{00102\ \ \ \ \ \textcolor{keywordtype}{void}\ \doxymbox{\hyperlink{class_database_manager_a58fec564f89988777b4c8c0ef221512f}{requestAllProposals}}();}
+\DoxyCodeLine{00103\ }
+\DoxyCodeLine{00104\ signals:}
+\DoxyCodeLine{00107\ \ \ \ \ \textcolor{keywordtype}{void}\ \doxymbox{\hyperlink{class_database_manager_a1e1d538bd95dc707c16a99385afabf48}{initRequested}}(\textcolor{keyword}{const}\ QString\ \&dbName);}
+\DoxyCodeLine{00108\ \ \ \ \ \textcolor{keywordtype}{void}\ \doxymbox{\hyperlink{class_database_manager_acd177a933e14bf019c0658f2a58229b3}{saveRequested}}(\textcolor{keyword}{const}\ \doxymbox{\hyperlink{class_network_proposal}{NetworkProposal}}\ \&proposal);}
+\DoxyCodeLine{00109\ \ \ \ \ \textcolor{keywordtype}{void}\ \doxymbox{\hyperlink{class_database_manager_a806ef329e36f31008a09ddd0c69b4925}{loadRequested}}();}
+\DoxyCodeLine{00111\ }
+\DoxyCodeLine{00114\ }
+\DoxyCodeLine{00117\ \ \ \ \ \textcolor{keywordtype}{void}\ \doxymbox{\hyperlink{class_database_manager_a2a94eb55aa0f14e3bdb1da8495425f51}{saveFinished}}(\textcolor{keywordtype}{bool}\ success);}
+\DoxyCodeLine{00118\ }
+\DoxyCodeLine{00122\ \ \ \ \ \textcolor{keywordtype}{void}\ \doxymbox{\hyperlink{class_database_manager_aae3e1cbd19f7d2b98864048b788b116c}{allProposalsLoaded}}(\textcolor{keyword}{const}\ QList<NetworkProposal>\ \&proposals);}
+\DoxyCodeLine{00124\ }
+\DoxyCodeLine{00125\ \textcolor{keyword}{private}:}
+\DoxyCodeLine{00126\ \ \ \ \ QThread\ \doxymbox{\hyperlink{class_database_manager_ab95737a6127756fb1625e313d4996a62}{m\_workerThread}};\ \ \ \ \ \ \ \ \ }
+\DoxyCodeLine{00127\ \ \ \ \ \doxymbox{\hyperlink{class_database_worker}{DatabaseWorker}}\ *\doxymbox{\hyperlink{class_database_manager_aebff69b850e3a0e3165c6d2b339e7258}{m\_worker}};\ \ \ \ \ \ \ }
+\DoxyCodeLine{00128\ \};}
+\DoxyCodeLine{00129\ }
+\DoxyCodeLine{00130\ \textcolor{preprocessor}{\#endif\ }\textcolor{comment}{//\ DATABASEMANAGER\_H}}
+
+\end{DoxyCode}

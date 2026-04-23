@@ -1,0 +1,25 @@
+\doxysection{Json\+Serializer.\+h}
+\hypertarget{_json_serializer_8h_source}{}\label{_json_serializer_8h_source}\index{src/storage/JsonSerializer.h@{src/storage/JsonSerializer.h}}
+\doxymbox{\hyperlink{_json_serializer_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{00001\ \textcolor{preprocessor}{\#ifndef\ JSONSERIALIZER\_H}}
+\DoxyCodeLine{00002\ \textcolor{preprocessor}{\#define\ JSONSERIALIZER\_H}}
+\DoxyCodeLine{00003\ }
+\DoxyCodeLine{00004\ \textcolor{preprocessor}{\#include\ <QJsonObject>}}
+\DoxyCodeLine{00005\ \textcolor{preprocessor}{\#include\ <QString>}}
+\DoxyCodeLine{00006\ }
+\DoxyCodeLine{00007\ \textcolor{comment}{//\ Używamy\ forward\ declarations\ zamiast\ pełnych\ include,}}
+\DoxyCodeLine{00008\ \textcolor{comment}{//\ aby\ uniknąć\ błędu\ "{}nested\ too\ deeply"{}}}
+\DoxyCodeLine{00009\ \textcolor{keyword}{class\ }\doxymbox{\hyperlink{struct_company_profile}{CompanyProfile}};}
+\DoxyCodeLine{00010\ \textcolor{keyword}{class\ }\doxymbox{\hyperlink{class_network_proposal}{NetworkProposal}};}
+\DoxyCodeLine{00011\ }
+\DoxyCodeLine{00012\ \textcolor{keyword}{class\ }\doxymbox{\hyperlink{class_json_serializer}{JsonSerializer}}\ \{}
+\DoxyCodeLine{00013\ \textcolor{keyword}{public}:}
+\DoxyCodeLine{00014\ \ \ \ \ \textcolor{keyword}{static}\ QJsonObject\ \doxymbox{\hyperlink{class_json_serializer_a274b03f68dfd1b6f61111b96afc1a7e2}{serializeProfile}}(\textcolor{keyword}{const}\ \doxymbox{\hyperlink{struct_company_profile}{CompanyProfile}}\&\ profile);}
+\DoxyCodeLine{00015\ \ \ \ \ \textcolor{keyword}{static}\ QJsonObject\ \doxymbox{\hyperlink{class_json_serializer_ad222c7e466b194a72c7302fc2ef2f93c}{serializeProposal}}(\textcolor{keyword}{const}\ \doxymbox{\hyperlink{class_network_proposal}{NetworkProposal}}\&\ proposal);}
+\DoxyCodeLine{00016\ \ \ \ \ \textcolor{keyword}{static}\ \doxymbox{\hyperlink{class_network_proposal}{NetworkProposal}}\ \doxymbox{\hyperlink{class_json_serializer_a140a7529855960f80b1b5a770cc25620}{deserializeProposal}}(\textcolor{keyword}{const}\ QString\&\ jsonStr);}
+\DoxyCodeLine{00017\ \};}
+\DoxyCodeLine{00018\ }
+\DoxyCodeLine{00019\ \textcolor{preprocessor}{\#endif\ }\textcolor{comment}{//\ JSONSERIALIZER\_H}}
+
+\end{DoxyCode}

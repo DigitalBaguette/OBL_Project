@@ -1,0 +1,26 @@
+\doxysection{src/\+storage/\+\+Database\+Manager.h File Reference}
+\hypertarget{_database_manager_8h}{}\label{_database_manager_8h}\index{src/storage/DatabaseManager.h@{src/storage/DatabaseManager.h}}
+
+
+Zarządzanie warstwą trwałości danych w architekturze wielowątkowej.  
+
+
+{\ttfamily \+\#include $<$QObject$>$}\newline
+{\ttfamily \+\#include $<$QThread$>$}\newline
+{\ttfamily \+\#include $<$QSql\+Database$>$}\newline
+{\ttfamily \+\#include $<$QSql\+Query$>$}\newline
+{\ttfamily \+\#include $<$QSql\+Error$>$}\newline
+{\ttfamily \+\#include "{}../\+core/\+\+Network\+Proposal.\+h"{}}\newline
+\doxysubsubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \doxymbox{\hyperlink{class_database_worker}{Database\+Worker}}
+\begin{DoxyCompactList}\small\item\em Klasa wykonawcza (Worker) operująca bezpośrednio na sterowniku SQL. \end{DoxyCompactList}\item 
+class \doxymbox{\hyperlink{class_database_manager}{Database\+Manager}}
+\begin{DoxyCompactList}\small\item\em Fasada zarządzająca cyklem życia wątku bazy danych. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Zarządzanie warstwą trwałości danych w architekturze wielowątkowej. 
+
+Implementacja spełnia Wymóg 6 projektu poprzez odseparowanie operacji wejścia/\+wyjścia (I/\+O) od głównego wątku GUI (Main Thread). 
