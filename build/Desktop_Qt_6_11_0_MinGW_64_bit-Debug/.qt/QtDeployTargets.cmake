@@ -1,3 +1,6 @@
 set(__QT_DEPLOY_TARGET_OBL_Project_FILE C:/Users/polsk/Documents/GitHub/OBL_Project/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/OBL_Project.exe)
 set(__QT_DEPLOY_TARGET_OBL_Project_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_OBL_Project_RUNTIME_DLLS C:/Qt/6.11.0/mingw_64/bin/Qt6Widgets.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Sql.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Network.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_OBL_Project_RUNTIME_DLLS C:/Qt/6.11.0/mingw_64/bin/Qt6Widgets.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Sql.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Network.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Test.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_TestAnalyzer_FILE C:/Users/polsk/Documents/GitHub/OBL_Project/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/TestAnalyzer.exe)
+set(__QT_DEPLOY_TARGET_TestAnalyzer_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_TestAnalyzer_RUNTIME_DLLS C:/Qt/6.11.0/mingw_64/bin/Qt6Widgets.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Network.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Test.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Sql.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.11.0/mingw_64/bin/Qt6Core.dll)

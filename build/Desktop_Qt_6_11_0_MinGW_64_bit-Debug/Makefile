@@ -64,6 +64,16 @@ CMAKE_BINARY_DIR = C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_
 #=============================================================================
 # Targets provided globally by CMake.
 
+# Special rule for the target test
+test:
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Running tests..."
+	C:\Qt\Tools\CMake_64\bin\ctest.exe --force-new-ctest-process $(ARGS)
+.PHONY : test
+
+# Special rule for the target test
+test/fast: test
+.PHONY : test/fast
+
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Running CMake cache editor..."
@@ -129,6 +139,19 @@ OBL_Project/fast:
 .PHONY : OBL_Project/fast
 
 #=============================================================================
+# Target rules for targets named TestAnalyzer
+
+# Build rule for target.
+TestAnalyzer: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 TestAnalyzer
+.PHONY : TestAnalyzer
+
+# fast build rule for target.
+TestAnalyzer/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/build
+.PHONY : TestAnalyzer/fast
+
+#=============================================================================
 # Target rules for targets named OBL_Project_autogen_timestamp_deps
 
 # Build rule for target.
@@ -154,6 +177,32 @@ OBL_Project_autogen/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project_autogen.dir\build.make CMakeFiles/OBL_Project_autogen.dir/build
 .PHONY : OBL_Project_autogen/fast
 
+#=============================================================================
+# Target rules for targets named TestAnalyzer_autogen_timestamp_deps
+
+# Build rule for target.
+TestAnalyzer_autogen_timestamp_deps: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 TestAnalyzer_autogen_timestamp_deps
+.PHONY : TestAnalyzer_autogen_timestamp_deps
+
+# fast build rule for target.
+TestAnalyzer_autogen_timestamp_deps/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer_autogen_timestamp_deps.dir\build.make CMakeFiles/TestAnalyzer_autogen_timestamp_deps.dir/build
+.PHONY : TestAnalyzer_autogen_timestamp_deps/fast
+
+#=============================================================================
+# Target rules for targets named TestAnalyzer_autogen
+
+# Build rule for target.
+TestAnalyzer_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 TestAnalyzer_autogen
+.PHONY : TestAnalyzer_autogen
+
+# fast build rule for target.
+TestAnalyzer_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer_autogen.dir\build.make CMakeFiles/TestAnalyzer_autogen.dir/build
+.PHONY : TestAnalyzer_autogen/fast
+
 OBL_Project_autogen/mocs_compilation.obj: OBL_Project_autogen/mocs_compilation.cpp.obj
 .PHONY : OBL_Project_autogen/mocs_compilation.obj
 
@@ -178,12 +227,37 @@ OBL_Project_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/OBL_Project_autogen/mocs_compilation.cpp.s
 .PHONY : OBL_Project_autogen/mocs_compilation.cpp.s
 
+TestAnalyzer_autogen/mocs_compilation.obj: TestAnalyzer_autogen/mocs_compilation.cpp.obj
+.PHONY : TestAnalyzer_autogen/mocs_compilation.obj
+
+# target to build an object file
+TestAnalyzer_autogen/mocs_compilation.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/TestAnalyzer_autogen/mocs_compilation.cpp.obj
+.PHONY : TestAnalyzer_autogen/mocs_compilation.cpp.obj
+
+TestAnalyzer_autogen/mocs_compilation.i: TestAnalyzer_autogen/mocs_compilation.cpp.i
+.PHONY : TestAnalyzer_autogen/mocs_compilation.i
+
+# target to preprocess a source file
+TestAnalyzer_autogen/mocs_compilation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/TestAnalyzer_autogen/mocs_compilation.cpp.i
+.PHONY : TestAnalyzer_autogen/mocs_compilation.cpp.i
+
+TestAnalyzer_autogen/mocs_compilation.s: TestAnalyzer_autogen/mocs_compilation.cpp.s
+.PHONY : TestAnalyzer_autogen/mocs_compilation.s
+
+# target to generate assembly for a file
+TestAnalyzer_autogen/mocs_compilation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/TestAnalyzer_autogen/mocs_compilation.cpp.s
+.PHONY : TestAnalyzer_autogen/mocs_compilation.cpp.s
+
 src/core/CompanyProfile.obj: src/core/CompanyProfile.cpp.obj
 .PHONY : src/core/CompanyProfile.obj
 
 # target to build an object file
 src/core/CompanyProfile.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/core/CompanyProfile.cpp.obj
 .PHONY : src/core/CompanyProfile.cpp.obj
 
 src/core/CompanyProfile.i: src/core/CompanyProfile.cpp.i
@@ -192,6 +266,7 @@ src/core/CompanyProfile.i: src/core/CompanyProfile.cpp.i
 # target to preprocess a source file
 src/core/CompanyProfile.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/core/CompanyProfile.cpp.i
 .PHONY : src/core/CompanyProfile.cpp.i
 
 src/core/CompanyProfile.s: src/core/CompanyProfile.cpp.s
@@ -200,6 +275,7 @@ src/core/CompanyProfile.s: src/core/CompanyProfile.cpp.s
 # target to generate assembly for a file
 src/core/CompanyProfile.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/core/CompanyProfile.cpp.s
 .PHONY : src/core/CompanyProfile.cpp.s
 
 src/core/NetworkAnalyzer.obj: src/core/NetworkAnalyzer.cpp.obj
@@ -208,6 +284,7 @@ src/core/NetworkAnalyzer.obj: src/core/NetworkAnalyzer.cpp.obj
 # target to build an object file
 src/core/NetworkAnalyzer.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/core/NetworkAnalyzer.cpp.obj
 .PHONY : src/core/NetworkAnalyzer.cpp.obj
 
 src/core/NetworkAnalyzer.i: src/core/NetworkAnalyzer.cpp.i
@@ -216,6 +293,7 @@ src/core/NetworkAnalyzer.i: src/core/NetworkAnalyzer.cpp.i
 # target to preprocess a source file
 src/core/NetworkAnalyzer.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/core/NetworkAnalyzer.cpp.i
 .PHONY : src/core/NetworkAnalyzer.cpp.i
 
 src/core/NetworkAnalyzer.s: src/core/NetworkAnalyzer.cpp.s
@@ -224,6 +302,7 @@ src/core/NetworkAnalyzer.s: src/core/NetworkAnalyzer.cpp.s
 # target to generate assembly for a file
 src/core/NetworkAnalyzer.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/core/NetworkAnalyzer.cpp.s
 .PHONY : src/core/NetworkAnalyzer.cpp.s
 
 src/core/NetworkProposal.obj: src/core/NetworkProposal.cpp.obj
@@ -232,6 +311,7 @@ src/core/NetworkProposal.obj: src/core/NetworkProposal.cpp.obj
 # target to build an object file
 src/core/NetworkProposal.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/core/NetworkProposal.cpp.obj
 .PHONY : src/core/NetworkProposal.cpp.obj
 
 src/core/NetworkProposal.i: src/core/NetworkProposal.cpp.i
@@ -240,6 +320,7 @@ src/core/NetworkProposal.i: src/core/NetworkProposal.cpp.i
 # target to preprocess a source file
 src/core/NetworkProposal.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/core/NetworkProposal.cpp.i
 .PHONY : src/core/NetworkProposal.cpp.i
 
 src/core/NetworkProposal.s: src/core/NetworkProposal.cpp.s
@@ -248,6 +329,7 @@ src/core/NetworkProposal.s: src/core/NetworkProposal.cpp.s
 # target to generate assembly for a file
 src/core/NetworkProposal.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/core/NetworkProposal.cpp.s
 .PHONY : src/core/NetworkProposal.cpp.s
 
 src/gui/CompanyInputDialog.obj: src/gui/CompanyInputDialog.cpp.obj
@@ -256,6 +338,7 @@ src/gui/CompanyInputDialog.obj: src/gui/CompanyInputDialog.cpp.obj
 # target to build an object file
 src/gui/CompanyInputDialog.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/CompanyInputDialog.cpp.obj
 .PHONY : src/gui/CompanyInputDialog.cpp.obj
 
 src/gui/CompanyInputDialog.i: src/gui/CompanyInputDialog.cpp.i
@@ -264,6 +347,7 @@ src/gui/CompanyInputDialog.i: src/gui/CompanyInputDialog.cpp.i
 # target to preprocess a source file
 src/gui/CompanyInputDialog.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/CompanyInputDialog.cpp.i
 .PHONY : src/gui/CompanyInputDialog.cpp.i
 
 src/gui/CompanyInputDialog.s: src/gui/CompanyInputDialog.cpp.s
@@ -272,6 +356,7 @@ src/gui/CompanyInputDialog.s: src/gui/CompanyInputDialog.cpp.s
 # target to generate assembly for a file
 src/gui/CompanyInputDialog.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/CompanyInputDialog.cpp.s
 .PHONY : src/gui/CompanyInputDialog.cpp.s
 
 src/gui/HistoryWidget.obj: src/gui/HistoryWidget.cpp.obj
@@ -280,6 +365,7 @@ src/gui/HistoryWidget.obj: src/gui/HistoryWidget.cpp.obj
 # target to build an object file
 src/gui/HistoryWidget.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/HistoryWidget.cpp.obj
 .PHONY : src/gui/HistoryWidget.cpp.obj
 
 src/gui/HistoryWidget.i: src/gui/HistoryWidget.cpp.i
@@ -288,6 +374,7 @@ src/gui/HistoryWidget.i: src/gui/HistoryWidget.cpp.i
 # target to preprocess a source file
 src/gui/HistoryWidget.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/HistoryWidget.cpp.i
 .PHONY : src/gui/HistoryWidget.cpp.i
 
 src/gui/HistoryWidget.s: src/gui/HistoryWidget.cpp.s
@@ -296,6 +383,7 @@ src/gui/HistoryWidget.s: src/gui/HistoryWidget.cpp.s
 # target to generate assembly for a file
 src/gui/HistoryWidget.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/HistoryWidget.cpp.s
 .PHONY : src/gui/HistoryWidget.cpp.s
 
 src/gui/MainWindow.obj: src/gui/MainWindow.cpp.obj
@@ -304,6 +392,7 @@ src/gui/MainWindow.obj: src/gui/MainWindow.cpp.obj
 # target to build an object file
 src/gui/MainWindow.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/MainWindow.cpp.obj
 .PHONY : src/gui/MainWindow.cpp.obj
 
 src/gui/MainWindow.i: src/gui/MainWindow.cpp.i
@@ -312,6 +401,7 @@ src/gui/MainWindow.i: src/gui/MainWindow.cpp.i
 # target to preprocess a source file
 src/gui/MainWindow.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/MainWindow.cpp.i
 .PHONY : src/gui/MainWindow.cpp.i
 
 src/gui/MainWindow.s: src/gui/MainWindow.cpp.s
@@ -320,6 +410,7 @@ src/gui/MainWindow.s: src/gui/MainWindow.cpp.s
 # target to generate assembly for a file
 src/gui/MainWindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/MainWindow.cpp.s
 .PHONY : src/gui/MainWindow.cpp.s
 
 src/gui/NetworkResultWidget.obj: src/gui/NetworkResultWidget.cpp.obj
@@ -328,6 +419,7 @@ src/gui/NetworkResultWidget.obj: src/gui/NetworkResultWidget.cpp.obj
 # target to build an object file
 src/gui/NetworkResultWidget.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/NetworkResultWidget.cpp.obj
 .PHONY : src/gui/NetworkResultWidget.cpp.obj
 
 src/gui/NetworkResultWidget.i: src/gui/NetworkResultWidget.cpp.i
@@ -336,6 +428,7 @@ src/gui/NetworkResultWidget.i: src/gui/NetworkResultWidget.cpp.i
 # target to preprocess a source file
 src/gui/NetworkResultWidget.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/NetworkResultWidget.cpp.i
 .PHONY : src/gui/NetworkResultWidget.cpp.i
 
 src/gui/NetworkResultWidget.s: src/gui/NetworkResultWidget.cpp.s
@@ -344,6 +437,7 @@ src/gui/NetworkResultWidget.s: src/gui/NetworkResultWidget.cpp.s
 # target to generate assembly for a file
 src/gui/NetworkResultWidget.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/NetworkResultWidget.cpp.s
 .PHONY : src/gui/NetworkResultWidget.cpp.s
 
 src/llm/OllamaClient.obj: src/llm/OllamaClient.cpp.obj
@@ -352,6 +446,7 @@ src/llm/OllamaClient.obj: src/llm/OllamaClient.cpp.obj
 # target to build an object file
 src/llm/OllamaClient.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/llm/OllamaClient.cpp.obj
 .PHONY : src/llm/OllamaClient.cpp.obj
 
 src/llm/OllamaClient.i: src/llm/OllamaClient.cpp.i
@@ -360,6 +455,7 @@ src/llm/OllamaClient.i: src/llm/OllamaClient.cpp.i
 # target to preprocess a source file
 src/llm/OllamaClient.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/llm/OllamaClient.cpp.i
 .PHONY : src/llm/OllamaClient.cpp.i
 
 src/llm/OllamaClient.s: src/llm/OllamaClient.cpp.s
@@ -368,6 +464,7 @@ src/llm/OllamaClient.s: src/llm/OllamaClient.cpp.s
 # target to generate assembly for a file
 src/llm/OllamaClient.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/llm/OllamaClient.cpp.s
 .PHONY : src/llm/OllamaClient.cpp.s
 
 src/llm/PromptBuilder.obj: src/llm/PromptBuilder.cpp.obj
@@ -376,6 +473,7 @@ src/llm/PromptBuilder.obj: src/llm/PromptBuilder.cpp.obj
 # target to build an object file
 src/llm/PromptBuilder.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/llm/PromptBuilder.cpp.obj
 .PHONY : src/llm/PromptBuilder.cpp.obj
 
 src/llm/PromptBuilder.i: src/llm/PromptBuilder.cpp.i
@@ -384,6 +482,7 @@ src/llm/PromptBuilder.i: src/llm/PromptBuilder.cpp.i
 # target to preprocess a source file
 src/llm/PromptBuilder.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/llm/PromptBuilder.cpp.i
 .PHONY : src/llm/PromptBuilder.cpp.i
 
 src/llm/PromptBuilder.s: src/llm/PromptBuilder.cpp.s
@@ -392,6 +491,7 @@ src/llm/PromptBuilder.s: src/llm/PromptBuilder.cpp.s
 # target to generate assembly for a file
 src/llm/PromptBuilder.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/llm/PromptBuilder.cpp.s
 .PHONY : src/llm/PromptBuilder.cpp.s
 
 src/main.obj: src/main.cpp.obj
@@ -424,6 +524,7 @@ src/storage/DatabaseManager.obj: src/storage/DatabaseManager.cpp.obj
 # target to build an object file
 src/storage/DatabaseManager.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/storage/DatabaseManager.cpp.obj
 .PHONY : src/storage/DatabaseManager.cpp.obj
 
 src/storage/DatabaseManager.i: src/storage/DatabaseManager.cpp.i
@@ -432,6 +533,7 @@ src/storage/DatabaseManager.i: src/storage/DatabaseManager.cpp.i
 # target to preprocess a source file
 src/storage/DatabaseManager.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/storage/DatabaseManager.cpp.i
 .PHONY : src/storage/DatabaseManager.cpp.i
 
 src/storage/DatabaseManager.s: src/storage/DatabaseManager.cpp.s
@@ -440,6 +542,7 @@ src/storage/DatabaseManager.s: src/storage/DatabaseManager.cpp.s
 # target to generate assembly for a file
 src/storage/DatabaseManager.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/storage/DatabaseManager.cpp.s
 .PHONY : src/storage/DatabaseManager.cpp.s
 
 src/storage/JsonSerializer.obj: src/storage/JsonSerializer.cpp.obj
@@ -448,6 +551,7 @@ src/storage/JsonSerializer.obj: src/storage/JsonSerializer.cpp.obj
 # target to build an object file
 src/storage/JsonSerializer.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/storage/JsonSerializer.cpp.obj
 .PHONY : src/storage/JsonSerializer.cpp.obj
 
 src/storage/JsonSerializer.i: src/storage/JsonSerializer.cpp.i
@@ -456,6 +560,7 @@ src/storage/JsonSerializer.i: src/storage/JsonSerializer.cpp.i
 # target to preprocess a source file
 src/storage/JsonSerializer.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/storage/JsonSerializer.cpp.i
 .PHONY : src/storage/JsonSerializer.cpp.i
 
 src/storage/JsonSerializer.s: src/storage/JsonSerializer.cpp.s
@@ -464,7 +569,32 @@ src/storage/JsonSerializer.s: src/storage/JsonSerializer.cpp.s
 # target to generate assembly for a file
 src/storage/JsonSerializer.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/storage/JsonSerializer.cpp.s
 .PHONY : src/storage/JsonSerializer.cpp.s
+
+tests/TestAnalyzer.obj: tests/TestAnalyzer.cpp.obj
+.PHONY : tests/TestAnalyzer.obj
+
+# target to build an object file
+tests/TestAnalyzer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/tests/TestAnalyzer.cpp.obj
+.PHONY : tests/TestAnalyzer.cpp.obj
+
+tests/TestAnalyzer.i: tests/TestAnalyzer.cpp.i
+.PHONY : tests/TestAnalyzer.i
+
+# target to preprocess a source file
+tests/TestAnalyzer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/tests/TestAnalyzer.cpp.i
+.PHONY : tests/TestAnalyzer.cpp.i
+
+tests/TestAnalyzer.s: tests/TestAnalyzer.cpp.s
+.PHONY : tests/TestAnalyzer.s
+
+# target to generate assembly for a file
+tests/TestAnalyzer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/tests/TestAnalyzer.cpp.s
+.PHONY : tests/TestAnalyzer.cpp.s
 
 # Help Target
 help:
@@ -474,12 +604,19 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... test
 	@echo ... OBL_Project_autogen
 	@echo ... OBL_Project_autogen_timestamp_deps
+	@echo ... TestAnalyzer_autogen
+	@echo ... TestAnalyzer_autogen_timestamp_deps
 	@echo ... OBL_Project
+	@echo ... TestAnalyzer
 	@echo ... OBL_Project_autogen/mocs_compilation.obj
 	@echo ... OBL_Project_autogen/mocs_compilation.i
 	@echo ... OBL_Project_autogen/mocs_compilation.s
+	@echo ... TestAnalyzer_autogen/mocs_compilation.obj
+	@echo ... TestAnalyzer_autogen/mocs_compilation.i
+	@echo ... TestAnalyzer_autogen/mocs_compilation.s
 	@echo ... src/core/CompanyProfile.obj
 	@echo ... src/core/CompanyProfile.i
 	@echo ... src/core/CompanyProfile.s
@@ -516,6 +653,9 @@ help:
 	@echo ... src/storage/JsonSerializer.obj
 	@echo ... src/storage/JsonSerializer.i
 	@echo ... src/storage/JsonSerializer.s
+	@echo ... tests/TestAnalyzer.obj
+	@echo ... tests/TestAnalyzer.i
+	@echo ... tests/TestAnalyzer.s
 .PHONY : help
 
 

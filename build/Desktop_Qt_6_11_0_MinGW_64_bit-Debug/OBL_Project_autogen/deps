@@ -440,6 +440,16 @@ OBL_Project_autogen/timestamp: \
 	C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlTargets.cmake \
 	C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlTargetsPrecheck.cmake \
 	C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlVersionlessAliasTargets.cmake \
+	C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestAdditionalTargetInfo.cmake \
+	C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestConfig.cmake \
+	C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestConfigVersion.cmake \
+	C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestConfigVersionImpl.cmake \
+	C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestDependencies.cmake \
+	C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestTargets-relwithdebinfo.cmake \
+	C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestTargets.cmake \
+	C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestTargetsPrecheck.cmake \
+	C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/Qt6TestVersionlessAliasTargets.cmake \
+	C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Test/QtTestProperties.cmake \
 	C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginAdditionalTargetInfo.cmake \
 	C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginConfig.cmake \
 	C:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets-relwithdebinfo.cmake \

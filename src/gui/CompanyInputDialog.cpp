@@ -10,7 +10,8 @@ CompanyInputDialog::CompanyInputDialog(QWidget *parent) :
     ui(new Ui::CompanyInputDialog)
 {
     ui->setupUi(this);
-
+    ui->employeeSpinBox->setRange(1, 10000);
+    ui->locationsSpinBox->setRange(1, 100);
     // Połączenie przycisków OK i Anuluj z mechanizmami zamykania okna
     // Bez tych linii okno nie zareaguje na kliknięcie przycisków w ButtonBox
     connect(ui->buttonBox, &QDialogButtonBox::accepted, this, &QDialog::accept);

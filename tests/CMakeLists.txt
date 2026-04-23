@@ -1,1 +1,0 @@
-find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Test)

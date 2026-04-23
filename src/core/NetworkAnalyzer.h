@@ -1,19 +1,37 @@
+/**
+ * @file NetworkAnalyzer.h
+ * @brief Klasa odpowiedzialna za analizę statystyczną i przygotowanie danych dla AI.
+ */
 #ifndef NETWORKANALYZER_H
 #define NETWORKANALYZER_H
 
 #include <QString>
-#include "CompanyProfile.h"
-#include "NetworkProposal.h"
+#include <QList>
+#include "../core/CompanyProfile.h"
+#include "../core/NetworkProposal.h"
 
 class NetworkAnalyzer {
 public:
-    NetworkAnalyzer() = default;
+    // Istniejące metody (zostawiamy lub lekko modyfikujemy)
+    static QString preparePrompt(const CompanyProfile& profile);
+    static bool validateProposal(const NetworkProposal& proposal);
 
-    // Funkcja do przygotowania promptu dla AI
-    QString preparePrompt(const CompanyProfile& profile);
+    // NOWE METODY ANALITYCZNE (Wymóg: Prosta analiza danych )
 
-    // Funkcja do wstępnej weryfikacji propozycji
-    bool validateProposal(const NetworkProposal& proposal);
+    /**
+     * @brief Oblicza średnią liczbę pracowników w zapisanych projektach[cite: 59].
+     */
+    static double calculateAverageEmployees(const QList<NetworkProposal>& history);
+
+    /**
+     * @brief Znajduje projekt z największą infrastrukturą (max lokalizacji)[cite: 57].
+     */
+    static NetworkProposal findExtensiveProject(const QList<NetworkProposal>& history);
+
+    /**
+     * @brief Określa trend wielkości projektów (czy firmy rosną)[cite: 60].
+     */
+    static QString determineScaleTrend(const QList<NetworkProposal>& history);
 };
 
 #endif

@@ -1,5 +1,9 @@
 C:/Users/polsk/Documents/GitHub/OBL_Project/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/OBL_Project.dir
+C:/Users/polsk/Documents/GitHub/OBL_Project/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/TestAnalyzer.dir
+C:/Users/polsk/Documents/GitHub/OBL_Project/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/test.dir
 C:/Users/polsk/Documents/GitHub/OBL_Project/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
 C:/Users/polsk/Documents/GitHub/OBL_Project/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
 C:/Users/polsk/Documents/GitHub/OBL_Project/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/OBL_Project_autogen_timestamp_deps.dir
 C:/Users/polsk/Documents/GitHub/OBL_Project/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/OBL_Project_autogen.dir
+C:/Users/polsk/Documents/GitHub/OBL_Project/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/TestAnalyzer_autogen_timestamp_deps.dir
+C:/Users/polsk/Documents/GitHub/OBL_Project/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/TestAnalyzer_autogen.dir
