@@ -3,3 +3,4 @@
 #include "MXUWEOXILK/moc_HistoryWidget.cpp"
 #include "MXUWEOXILK/moc_MainWindow.cpp"
 #include "PO2R7MZETR/moc_OllamaClient.cpp"
+#include "F2ESZRYZMC/moc_DatabaseManager.cpp"

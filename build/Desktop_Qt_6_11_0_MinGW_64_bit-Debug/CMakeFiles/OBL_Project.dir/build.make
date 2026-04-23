@@ -105,71 +105,11 @@ CMakeFiles/OBL_Project.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OBL_Project.dir/src/main.cpp.s"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\polsk\Documents\GitHub\OBL_Project\src\main.cpp -o CMakeFiles\OBL_Project.dir\src\main.cpp.s
 
-CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj: CMakeFiles/OBL_Project.dir/flags.make
-CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj: CMakeFiles/OBL_Project.dir/includes_CXX.rsp
-CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/MainWindow.cpp
-CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj: CMakeFiles/OBL_Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj -MF CMakeFiles\OBL_Project.dir\src\gui\MainWindow.cpp.obj.d -o CMakeFiles\OBL_Project.dir\src\gui\MainWindow.cpp.obj -c C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\MainWindow.cpp
-
-CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.i"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\MainWindow.cpp > CMakeFiles\OBL_Project.dir\src\gui\MainWindow.cpp.i
-
-CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.s"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\MainWindow.cpp -o CMakeFiles\OBL_Project.dir\src\gui\MainWindow.cpp.s
-
-CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj: CMakeFiles/OBL_Project.dir/flags.make
-CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj: CMakeFiles/OBL_Project.dir/includes_CXX.rsp
-CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/CompanyInputDialog.cpp
-CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj: CMakeFiles/OBL_Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj -MF CMakeFiles\OBL_Project.dir\src\gui\CompanyInputDialog.cpp.obj.d -o CMakeFiles\OBL_Project.dir\src\gui\CompanyInputDialog.cpp.obj -c C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\CompanyInputDialog.cpp
-
-CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.i"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\CompanyInputDialog.cpp > CMakeFiles\OBL_Project.dir\src\gui\CompanyInputDialog.cpp.i
-
-CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.s"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\CompanyInputDialog.cpp -o CMakeFiles\OBL_Project.dir\src\gui\CompanyInputDialog.cpp.s
-
-CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj: CMakeFiles/OBL_Project.dir/flags.make
-CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj: CMakeFiles/OBL_Project.dir/includes_CXX.rsp
-CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/NetworkResultWidget.cpp
-CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj: CMakeFiles/OBL_Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj -MF CMakeFiles\OBL_Project.dir\src\gui\NetworkResultWidget.cpp.obj.d -o CMakeFiles\OBL_Project.dir\src\gui\NetworkResultWidget.cpp.obj -c C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\NetworkResultWidget.cpp
-
-CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.i"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\NetworkResultWidget.cpp > CMakeFiles\OBL_Project.dir\src\gui\NetworkResultWidget.cpp.i
-
-CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.s"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\NetworkResultWidget.cpp -o CMakeFiles\OBL_Project.dir\src\gui\NetworkResultWidget.cpp.s
-
-CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj: CMakeFiles/OBL_Project.dir/flags.make
-CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj: CMakeFiles/OBL_Project.dir/includes_CXX.rsp
-CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/HistoryWidget.cpp
-CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj: CMakeFiles/OBL_Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj -MF CMakeFiles\OBL_Project.dir\src\gui\HistoryWidget.cpp.obj.d -o CMakeFiles\OBL_Project.dir\src\gui\HistoryWidget.cpp.obj -c C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\HistoryWidget.cpp
-
-CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.i"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\HistoryWidget.cpp > CMakeFiles\OBL_Project.dir\src\gui\HistoryWidget.cpp.i
-
-CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.s"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\HistoryWidget.cpp -o CMakeFiles\OBL_Project.dir\src\gui\HistoryWidget.cpp.s
-
 CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.obj: CMakeFiles/OBL_Project.dir/flags.make
 CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.obj: CMakeFiles/OBL_Project.dir/includes_CXX.rsp
 CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/NetworkProposal.cpp
 CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.obj: CMakeFiles/OBL_Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.obj -MF CMakeFiles\OBL_Project.dir\src\core\NetworkProposal.cpp.obj.d -o CMakeFiles\OBL_Project.dir\src\core\NetworkProposal.cpp.obj -c C:\Users\polsk\Documents\GitHub\OBL_Project\src\core\NetworkProposal.cpp
 
 CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.i: cmake_force
@@ -184,7 +124,7 @@ CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.obj: CMakeFiles/OBL_Proje
 CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.obj: CMakeFiles/OBL_Project.dir/includes_CXX.rsp
 CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/CompanyProfile.cpp
 CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.obj: CMakeFiles/OBL_Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.obj -MF CMakeFiles\OBL_Project.dir\src\core\CompanyProfile.cpp.obj.d -o CMakeFiles\OBL_Project.dir\src\core\CompanyProfile.cpp.obj -c C:\Users\polsk\Documents\GitHub\OBL_Project\src\core\CompanyProfile.cpp
 
 CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.i: cmake_force
@@ -199,7 +139,7 @@ CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.obj: CMakeFiles/OBL_Proj
 CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.obj: CMakeFiles/OBL_Project.dir/includes_CXX.rsp
 CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/core/NetworkAnalyzer.cpp
 CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.obj: CMakeFiles/OBL_Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.obj -MF CMakeFiles\OBL_Project.dir\src\core\NetworkAnalyzer.cpp.obj.d -o CMakeFiles\OBL_Project.dir\src\core\NetworkAnalyzer.cpp.obj -c C:\Users\polsk\Documents\GitHub\OBL_Project\src\core\NetworkAnalyzer.cpp
 
 CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.i: cmake_force
@@ -214,7 +154,7 @@ CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.obj: CMakeFiles/OBL_Project.
 CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.obj: CMakeFiles/OBL_Project.dir/includes_CXX.rsp
 CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/llm/OllamaClient.cpp
 CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.obj: CMakeFiles/OBL_Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.obj -MF CMakeFiles\OBL_Project.dir\src\llm\OllamaClient.cpp.obj.d -o CMakeFiles\OBL_Project.dir\src\llm\OllamaClient.cpp.obj -c C:\Users\polsk\Documents\GitHub\OBL_Project\src\llm\OllamaClient.cpp
 
 CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.i: cmake_force
@@ -229,7 +169,7 @@ CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.obj: CMakeFiles/OBL_Project
 CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.obj: CMakeFiles/OBL_Project.dir/includes_CXX.rsp
 CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/llm/PromptBuilder.cpp
 CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.obj: CMakeFiles/OBL_Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.obj -MF CMakeFiles\OBL_Project.dir\src\llm\PromptBuilder.cpp.obj.d -o CMakeFiles\OBL_Project.dir\src\llm\PromptBuilder.cpp.obj -c C:\Users\polsk\Documents\GitHub\OBL_Project\src\llm\PromptBuilder.cpp
 
 CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.i: cmake_force
@@ -244,7 +184,7 @@ CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.obj: CMakeFiles/OBL_P
 CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.obj: CMakeFiles/OBL_Project.dir/includes_CXX.rsp
 CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/storage/DatabaseManager.cpp
 CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.obj: CMakeFiles/OBL_Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.obj -MF CMakeFiles\OBL_Project.dir\src\storage\DatabaseManager.cpp.obj.d -o CMakeFiles\OBL_Project.dir\src\storage\DatabaseManager.cpp.obj -c C:\Users\polsk\Documents\GitHub\OBL_Project\src\storage\DatabaseManager.cpp
 
 CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.i: cmake_force
@@ -259,7 +199,7 @@ CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.obj: CMakeFiles/OBL_Pr
 CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.obj: CMakeFiles/OBL_Project.dir/includes_CXX.rsp
 CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/storage/JsonSerializer.cpp
 CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.obj: CMakeFiles/OBL_Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.obj -MF CMakeFiles\OBL_Project.dir\src\storage\JsonSerializer.cpp.obj.d -o CMakeFiles\OBL_Project.dir\src\storage\JsonSerializer.cpp.obj -c C:\Users\polsk\Documents\GitHub\OBL_Project\src\storage\JsonSerializer.cpp
 
 CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.i: cmake_force
@@ -270,31 +210,87 @@ CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.s"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\polsk\Documents\GitHub\OBL_Project\src\storage\JsonSerializer.cpp -o CMakeFiles\OBL_Project.dir\src\storage\JsonSerializer.cpp.s
 
+CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj: CMakeFiles/OBL_Project.dir/flags.make
+CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj: CMakeFiles/OBL_Project.dir/includes_CXX.rsp
+CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/MainWindow.cpp
+CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj: CMakeFiles/OBL_Project.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj -MF CMakeFiles\OBL_Project.dir\src\gui\MainWindow.cpp.obj.d -o CMakeFiles\OBL_Project.dir\src\gui\MainWindow.cpp.obj -c C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\MainWindow.cpp
+
+CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.i"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\MainWindow.cpp > CMakeFiles\OBL_Project.dir\src\gui\MainWindow.cpp.i
+
+CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.s"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\MainWindow.cpp -o CMakeFiles\OBL_Project.dir\src\gui\MainWindow.cpp.s
+
+CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj: CMakeFiles/OBL_Project.dir/flags.make
+CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj: CMakeFiles/OBL_Project.dir/includes_CXX.rsp
+CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/CompanyInputDialog.cpp
+CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj: CMakeFiles/OBL_Project.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj -MF CMakeFiles\OBL_Project.dir\src\gui\CompanyInputDialog.cpp.obj.d -o CMakeFiles\OBL_Project.dir\src\gui\CompanyInputDialog.cpp.obj -c C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\CompanyInputDialog.cpp
+
+CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.i"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\CompanyInputDialog.cpp > CMakeFiles\OBL_Project.dir\src\gui\CompanyInputDialog.cpp.i
+
+CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.s"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\CompanyInputDialog.cpp -o CMakeFiles\OBL_Project.dir\src\gui\CompanyInputDialog.cpp.s
+
+CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj: CMakeFiles/OBL_Project.dir/flags.make
+CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj: CMakeFiles/OBL_Project.dir/includes_CXX.rsp
+CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/NetworkResultWidget.cpp
+CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj: CMakeFiles/OBL_Project.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj -MF CMakeFiles\OBL_Project.dir\src\gui\NetworkResultWidget.cpp.obj.d -o CMakeFiles\OBL_Project.dir\src\gui\NetworkResultWidget.cpp.obj -c C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\NetworkResultWidget.cpp
+
+CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.i"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\NetworkResultWidget.cpp > CMakeFiles\OBL_Project.dir\src\gui\NetworkResultWidget.cpp.i
+
+CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.s"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\NetworkResultWidget.cpp -o CMakeFiles\OBL_Project.dir\src\gui\NetworkResultWidget.cpp.s
+
+CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj: CMakeFiles/OBL_Project.dir/flags.make
+CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj: CMakeFiles/OBL_Project.dir/includes_CXX.rsp
+CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj: C:/Users/polsk/Documents/GitHub/OBL_Project/src/gui/HistoryWidget.cpp
+CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj: CMakeFiles/OBL_Project.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\polsk\Documents\GitHub\OBL_Project\build\Desktop_Qt_6_11_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj -MF CMakeFiles\OBL_Project.dir\src\gui\HistoryWidget.cpp.obj.d -o CMakeFiles\OBL_Project.dir\src\gui\HistoryWidget.cpp.obj -c C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\HistoryWidget.cpp
+
+CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.i"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\HistoryWidget.cpp > CMakeFiles\OBL_Project.dir\src\gui\HistoryWidget.cpp.i
+
+CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.s"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\polsk\Documents\GitHub\OBL_Project\src\gui\HistoryWidget.cpp -o CMakeFiles\OBL_Project.dir\src\gui\HistoryWidget.cpp.s
+
 # Object files for target OBL_Project
 OBL_Project_OBJECTS = \
 "CMakeFiles/OBL_Project.dir/OBL_Project_autogen/mocs_compilation.cpp.obj" \
 "CMakeFiles/OBL_Project.dir/src/main.cpp.obj" \
-"CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj" \
-"CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj" \
-"CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj" \
-"CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj" \
 "CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.obj" \
 "CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.obj" \
 "CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.obj" \
 "CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.obj" \
 "CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.obj" \
 "CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.obj" \
-"CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.obj"
+"CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.obj" \
+"CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj" \
+"CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj" \
+"CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj" \
+"CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj"
 
 # External object files for target OBL_Project
 OBL_Project_EXTERNAL_OBJECTS =
 
 OBL_Project.exe: CMakeFiles/OBL_Project.dir/OBL_Project_autogen/mocs_compilation.cpp.obj
 OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/main.cpp.obj
-OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj
-OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj
-OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj
-OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj
 OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/core/NetworkProposal.cpp.obj
 OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/core/CompanyProfile.cpp.obj
 OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/core/NetworkAnalyzer.cpp.obj
@@ -302,11 +298,14 @@ OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/llm/OllamaClient.cpp.obj
 OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/llm/PromptBuilder.cpp.obj
 OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/storage/DatabaseManager.cpp.obj
 OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/storage/JsonSerializer.cpp.obj
+OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj
+OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj
+OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj
+OBL_Project.exe: CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj
 OBL_Project.exe: CMakeFiles/OBL_Project.dir/build.make
 OBL_Project.exe: C:/Qt/6.11.0/mingw_64/lib/libQt6Widgets.a
 OBL_Project.exe: C:/Qt/6.11.0/mingw_64/lib/libQt6Sql.a
 OBL_Project.exe: C:/Qt/6.11.0/mingw_64/lib/libQt6Network.a
-OBL_Project.exe: C:/Qt/6.11.0/mingw_64/lib/libQt6Test.a
 OBL_Project.exe: C:/Qt/6.11.0/mingw_64/lib/libQt6Gui.a
 OBL_Project.exe: C:/Qt/6.11.0/mingw_64/lib/libQt6Core.a
 OBL_Project.exe: C:/Qt/6.11.0/mingw_64/lib/libQt6EntryPoint.a

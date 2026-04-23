@@ -1,14 +1,39 @@
 /**
  * @file NetworkProposal.cpp
- * @brief Implementacja metod klasy NetworkProposal.
+ * @brief Implementacja metod serializacji do formatu JSON dla klasy NetworkProposal.
  */
 #include "NetworkProposal.h"
 
-// Obecnie klasa wykorzystuje domyślne konstruktory.
-// W tym miejscu w kolejnych krokach zaimplementujemy metody toJson() i fromJson(),
-// aby zrealizować wymóg zapisu do lokalnej bazy danych JSON.
+QJsonObject NetworkProposal::toJson() const {
+    QJsonObject root;
+    root["id"] = id;
+    root["timestamp"] = timestamp.toString(Qt::ISODate);
+    root["content"] = rawContent;
 
-/**
- * @brief Dokumentacja dla Doxygen (przykład pustej implementacji,
- * przygotowanej pod przyszłą logikę serializacji danych).
- */
+    // Zagnieżdżamy profil firmy jako osobny obiekt wewnątrz JSON
+    QJsonObject profileObj;
+    profileObj["industry"] = profile.industry;
+    profileObj["employees"] = profile.employeeCount;
+    profileObj["locations"] = profile.locationsCount;
+    profileObj["priority"] = profile.priority;
+
+    root["profile"] = profileObj;
+    return root;
+}
+
+NetworkProposal NetworkProposal::fromJson(const QJsonObject &json) {
+    NetworkProposal p;
+    p.id = json["id"].toString();
+    p.timestamp = QDateTime::fromString(json["timestamp"].toString(), Qt::ISODate);
+    p.rawContent = json["content"].toString();
+
+    if (json.contains("profile")) {
+        QJsonObject profObj = json["profile"].toObject();
+        p.profile.industry = profObj["industry"].toString();
+        p.profile.employeeCount = profObj["employees"].toInt();
+        p.profile.locationsCount = profObj["locations"].toInt();
+        p.profile.priority = profObj["priority"].toString();
+    }
+
+    return p;
+}

@@ -338,7 +338,6 @@ src/gui/CompanyInputDialog.obj: src/gui/CompanyInputDialog.cpp.obj
 # target to build an object file
 src/gui/CompanyInputDialog.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/CompanyInputDialog.cpp.obj
 .PHONY : src/gui/CompanyInputDialog.cpp.obj
 
 src/gui/CompanyInputDialog.i: src/gui/CompanyInputDialog.cpp.i
@@ -347,7 +346,6 @@ src/gui/CompanyInputDialog.i: src/gui/CompanyInputDialog.cpp.i
 # target to preprocess a source file
 src/gui/CompanyInputDialog.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/CompanyInputDialog.cpp.i
 .PHONY : src/gui/CompanyInputDialog.cpp.i
 
 src/gui/CompanyInputDialog.s: src/gui/CompanyInputDialog.cpp.s
@@ -356,7 +354,6 @@ src/gui/CompanyInputDialog.s: src/gui/CompanyInputDialog.cpp.s
 # target to generate assembly for a file
 src/gui/CompanyInputDialog.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/CompanyInputDialog.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/CompanyInputDialog.cpp.s
 .PHONY : src/gui/CompanyInputDialog.cpp.s
 
 src/gui/HistoryWidget.obj: src/gui/HistoryWidget.cpp.obj
@@ -365,7 +362,6 @@ src/gui/HistoryWidget.obj: src/gui/HistoryWidget.cpp.obj
 # target to build an object file
 src/gui/HistoryWidget.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/HistoryWidget.cpp.obj
 .PHONY : src/gui/HistoryWidget.cpp.obj
 
 src/gui/HistoryWidget.i: src/gui/HistoryWidget.cpp.i
@@ -374,7 +370,6 @@ src/gui/HistoryWidget.i: src/gui/HistoryWidget.cpp.i
 # target to preprocess a source file
 src/gui/HistoryWidget.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/HistoryWidget.cpp.i
 .PHONY : src/gui/HistoryWidget.cpp.i
 
 src/gui/HistoryWidget.s: src/gui/HistoryWidget.cpp.s
@@ -383,7 +378,6 @@ src/gui/HistoryWidget.s: src/gui/HistoryWidget.cpp.s
 # target to generate assembly for a file
 src/gui/HistoryWidget.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/HistoryWidget.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/HistoryWidget.cpp.s
 .PHONY : src/gui/HistoryWidget.cpp.s
 
 src/gui/MainWindow.obj: src/gui/MainWindow.cpp.obj
@@ -392,7 +386,6 @@ src/gui/MainWindow.obj: src/gui/MainWindow.cpp.obj
 # target to build an object file
 src/gui/MainWindow.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/MainWindow.cpp.obj
 .PHONY : src/gui/MainWindow.cpp.obj
 
 src/gui/MainWindow.i: src/gui/MainWindow.cpp.i
@@ -401,7 +394,6 @@ src/gui/MainWindow.i: src/gui/MainWindow.cpp.i
 # target to preprocess a source file
 src/gui/MainWindow.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/MainWindow.cpp.i
 .PHONY : src/gui/MainWindow.cpp.i
 
 src/gui/MainWindow.s: src/gui/MainWindow.cpp.s
@@ -410,7 +402,6 @@ src/gui/MainWindow.s: src/gui/MainWindow.cpp.s
 # target to generate assembly for a file
 src/gui/MainWindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/MainWindow.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/MainWindow.cpp.s
 .PHONY : src/gui/MainWindow.cpp.s
 
 src/gui/NetworkResultWidget.obj: src/gui/NetworkResultWidget.cpp.obj
@@ -419,7 +410,6 @@ src/gui/NetworkResultWidget.obj: src/gui/NetworkResultWidget.cpp.obj
 # target to build an object file
 src/gui/NetworkResultWidget.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/NetworkResultWidget.cpp.obj
 .PHONY : src/gui/NetworkResultWidget.cpp.obj
 
 src/gui/NetworkResultWidget.i: src/gui/NetworkResultWidget.cpp.i
@@ -428,7 +418,6 @@ src/gui/NetworkResultWidget.i: src/gui/NetworkResultWidget.cpp.i
 # target to preprocess a source file
 src/gui/NetworkResultWidget.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/NetworkResultWidget.cpp.i
 .PHONY : src/gui/NetworkResultWidget.cpp.i
 
 src/gui/NetworkResultWidget.s: src/gui/NetworkResultWidget.cpp.s
@@ -437,7 +426,6 @@ src/gui/NetworkResultWidget.s: src/gui/NetworkResultWidget.cpp.s
 # target to generate assembly for a file
 src/gui/NetworkResultWidget.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OBL_Project.dir\build.make CMakeFiles/OBL_Project.dir/src/gui/NetworkResultWidget.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestAnalyzer.dir\build.make CMakeFiles/TestAnalyzer.dir/src/gui/NetworkResultWidget.cpp.s
 .PHONY : src/gui/NetworkResultWidget.cpp.s
 
 src/llm/OllamaClient.obj: src/llm/OllamaClient.cpp.obj
