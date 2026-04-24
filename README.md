@@ -9,7 +9,7 @@ System automatycznej analizy projektów sieciowych wykorzystujący lokalne model
 - Testy jednostkowe w QtTest
 
 ## Jak uruchomić?
-1. Pobierz wersję finalną (https://github.com/DigitalBaguette/OBL_Project/releases)
+1. Pobierz wersję [finalną](https://github.com/DigitalBaguette/OBL_Project/releases)
 2. Upewnij się, że masz zainstalowaną [Ollamę](https://ollama.com/)
 3. Uruchom `OBL_Project.exe`
 
