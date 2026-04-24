@@ -14,4 +14,4 @@ System automatycznej analizy projektów sieciowych wykorzystujący lokalne model
 3. Uruchom `OBL_Project.exe`
 
 ## Dokumentacja
-Pełna dokumentacja techniczna (Doxygen) dostępna jest tutaj: https://digitalbaguette.github.io/OBL_Project/
+Pełna dokumentacja techniczna (Doxygen) dostępna jest tutaj: [dokumentacja](https://digitalbaguette.github.io/OBL_Project/)
