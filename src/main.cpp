@@ -8,7 +8,6 @@
 int main(int argc, char *argv[]) {
     QApplication a(argc, argv);
 
-    // Dane aplikacji - ważne dla systemowego zapisu plików (wymóg nr 6 i 8)
     QApplication::setApplicationName("NetworkAI_Analyzer");
     QApplication::setOrganizationName("JPO_Project");
     QApplication::setApplicationVersion("1.0.0");
