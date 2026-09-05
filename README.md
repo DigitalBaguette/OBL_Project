@@ -17,7 +17,7 @@ System automatycznej analizy projektów sieciowych wykorzystujący lokalne model
 - Zainstalowana [Ollama](https://ollama.com/) z modelem `llama3.2` (`ollama pull llama3.2`)
 
 ## Jak uruchomić? (wersja finalna)
-1. Pobierz wersję finalną (https://github.com/DigitalBaguette/OBL_Project/releases)
+1. Pobierz wersję [finalną](https://github.com/DigitalBaguette/OBL_Project/releases)
 2. Upewnij się, że masz zainstalowaną [Ollamę](https://ollama.com/) i uruchomiony model `llama3.2`
 3. Uruchom `OBL_Project.exe`
 
@@ -45,4 +45,4 @@ W Qt Creator: przełącz aktywny target na `TestAnalyzer` (Projects → Build & 
 Projekt obsługuje błędy zgodnie z konwencją frameworka Qt (kody powrotu, sygnały błędów typu `errorOccurred`/`operationFinished`), zamiast mechanizmu C++ exceptions — jest to zgodne z wielowątkową architekturą aplikacji, w której błędy muszą bezpiecznie przechodzić między wątkiem GUI a wątkiem bazy danych.
 
 ## Dokumentacja
-Pełna dokumentacja techniczna (Doxygen) dostępna jest tutaj: https://digitalbaguette.github.io/OBL_Project/
+Pełna dokumentacja techniczna (Doxygen) dostępna jest tutaj: [dokumentacja](https://digitalbaguette.github.io/OBL_Project/)
