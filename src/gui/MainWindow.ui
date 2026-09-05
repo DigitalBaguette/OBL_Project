@@ -32,6 +32,20 @@
       </property>
      </widget>
     </item>
+    <item>
+     <widget class="QPushButton" name="historyButton">
+      <property name="text">
+       <string>Pokaż historię</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="statsButton">
+      <property name="text">
+       <string>Pokaż statystyki</string>
+      </property>
+     </widget>
+    </item>
    </layout>
   </widget>
   <widget class="QMenuBar" name="menubar">

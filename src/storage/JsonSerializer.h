@@ -2,18 +2,21 @@
 #define JSONSERIALIZER_H
 
 #include <QJsonObject>
-#include <QString>
 
-// Używamy forward declarations zamiast pełnych include,
-// aby uniknąć błędu "nested too deeply"
 class CompanyProfile;
-class NetworkProposal;
 
+/**
+ * @class JsonSerializer
+ * @brief Pomocnicze metody serializacji obiektów domenowych do formatu JSON.
+ */
 class JsonSerializer {
 public:
+    /**
+     * @brief Serializuje profil firmy do obiektu JSON.
+     * @param profile Profil firmy do zserializowania.
+     * @return QJsonObject Reprezentacja profilu w formacie klucz-wartość.
+     */
     static QJsonObject serializeProfile(const CompanyProfile& profile);
-    static QJsonObject serializeProposal(const NetworkProposal& proposal);
-    static NetworkProposal deserializeProposal(const QString& jsonStr);
 };
 
 #endif // JSONSERIALIZER_H

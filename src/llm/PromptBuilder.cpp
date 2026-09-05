@@ -1,5 +1,5 @@
 #include "PromptBuilder.h"
-#include <QStringList> // Potrzebne do obsługi profile.teams.join()
+#include <QStringList>
 
 QString PromptBuilder::buildNetworkPrompt(const CompanyProfile& profile) {
     QString serverRoomStatus = profile.hasServerRoom ? "posiada wydzieloną serwerownię" : "nie posiada dedykowanej serwerowni (rozwiązania chmurowe lub szafy wiszące)";

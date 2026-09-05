@@ -17,8 +17,10 @@ QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
 QT_END_NAMESPACE
 
-// Deklaracja wyprzedzająca w celu skrócenia czasu kompilacji
 class OllamaClient;
+class HistoryWidget;
+class StatsView;
+class NetworkResultWidget;
 
 /**
  * @class MainWindow
@@ -33,21 +35,18 @@ class MainWindow : public QMainWindow
 public:
     /**
      * @brief Konstruktor klasy MainWindow.
-     * Inicjalizuje komponenty UI, klienta AI oraz wątek bazy danych.
      * @param parent Wskaźnik na obiekt rodzica (domyślnie nullptr).
      */
     MainWindow(QWidget *parent = nullptr);
 
     /**
      * @brief Wirtualny destruktor klasy MainWindow.
-     * Zapewnia poprawne zwolnienie zasobów i bezpieczne zamknięcie wątków.
      */
     virtual ~MainWindow();
 
 private slots:
     /**
      * @brief Slot obsługujący zdarzenie kliknięcia przycisku generowania profilu.
-     * Wyświetla okno dialogowe wejścia danych firmy.
      */
     void on_generateButton_clicked();
 
@@ -55,6 +54,16 @@ private slots:
      * @brief Slot wysyłający przygotowany prompt do modelu LLM.
      */
     void on_sendToAIButton_clicked();
+
+    /**
+     * @brief Slot obsługujący kliknięcie przycisku pokazującego historię projektów.
+     */
+    void on_historyButton_clicked();
+
+    /**
+     * @brief Slot obsługujący kliknięcie przycisku pokazującego statystyki projektów.
+     */
+    void on_statsButton_clicked();
 
     /**
      * @brief Przetwarza tekstową odpowiedź otrzymaną z silnika AI.
@@ -74,11 +83,34 @@ private slots:
      */
     void onDatabaseOperationFinished(bool success);
 
+    /**
+     * @brief Odbiera pełną historię propozycji wczytaną z bazy danych i przekazuje ją
+     * do aktualnie oczekującego widoku (historii lub statystyk).
+     * @param proposals Lista wszystkich zapisanych propozycji.
+     */
+    void handleHistoryLoaded(const QList<NetworkProposal> &proposals);
+
+    /**
+     * @brief Otwiera podgląd pełnej treści wybranej propozycji z historii.
+     * @param proposal Propozycja wybrana przez użytkownika.
+     */
+    void handleProposalSelected(const NetworkProposal &proposal);
+
 private:
+    /**
+     * @enum PendingHistoryAction
+     * @brief Określa, który widok ma zostać wypełniony po wczytaniu historii z bazy.
+     */
+    enum class PendingHistoryAction { None, ShowHistory, ShowStats };
+
     Ui::MainWindow *ui;               ///< Wskaźnik na interfejs użytkownika wygenerowany z pliku .ui.
     OllamaClient   *m_ollamaClient;    ///< Klient odpowiedzialny za komunikację z API LLM.
     DatabaseManager *m_dbManager;      ///< Manager zarządzający asynchronicznym zapisem do bazy SQLite/JSON.
     CompanyProfile  m_currentProfile;  ///< Przechowuje dane aktualnie przetwarzanego profilu firmy.
+    HistoryWidget   *m_historyWidget;  ///< Okno prezentujące historię zapisanych propozycji.
+    StatsView       *m_statsView;      ///< Okno prezentujące statystyki zapisanych propozycji.
+    NetworkResultWidget *m_resultWidget; ///< Okno prezentujące pełną treść wybranej propozycji.
+    PendingHistoryAction m_pendingHistoryAction = PendingHistoryAction::None; ///< Widok oczekujący na dane z bazy.
 };
 
 #endif // MAINWINDOW_H

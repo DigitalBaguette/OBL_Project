@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=11"/>
+<meta name="generator" content="Doxygen 1.16.1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>System Analizy Sieci AI: Plik źródłowy src/core/NetworkAnalyzer.h</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<script type="text/javascript" src="clipboard.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript" src="cookie.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr id="projectrow">
+  <td id="projectalign">
+   <div id="projectname">System Analizy Sieci AI<span id="projectnumber">&#160;1.0</span>
+   </div>
+   <div id="projectbrief">Program ma na celu pomoc przy projektowaniu infrastruktury sieciowej dla firm.</div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Wygenerowano za pomocą Doxygen 1.16.1 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search/",'.html');
+</script>
+<script type="text/javascript">
+$(function() { codefold.init(); });
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','Szukaj',true);
+  $(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(function(){initNavTree('_network_analyzer_8h_source.html','',''); });
+</script>
+<div id="container">
+<div id="doc-content">
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<div id="MSearchResults">
+<div class="SRPage">
+<div id="SRIndex">
+<div id="SRResults"></div>
+<div class="SRStatus" id="Loading">Wczytywanie...</div>
+<div class="SRStatus" id="Searching">Szukanie...</div>
+<div class="SRStatus" id="NoMatches">Brak dopasowań</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="header">
+  <div class="headertitle"><div class="title">NetworkAnalyzer.h</div></div>
+</div><!--header-->
+<div class="contents">
+<a href="_network_analyzer_8h.html">Idź do dokumentacji tego pliku.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span></div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="preprocessor">#ifndef NETWORKANALYZER_H</span></div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="preprocessor">#define NETWORKANALYZER_H</span></div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span> </div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="preprocessor">#include &lt;QString&gt;</span></div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="preprocessor">#include &lt;QList&gt;</span></div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="preprocessor">#include &quot;<a class="code" href="_company_profile_8h.html">../core/CompanyProfile.h</a>&quot;</span></div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="preprocessor">#include &quot;<a class="code" href="_network_proposal_8h.html">../core/NetworkProposal.h</a>&quot;</span></div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span></div>
+<div class="foldopen" id="foldopen00017" data-start="{" data-end="};">
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno"><a class="line" href="class_network_analyzer.html">   17</a></span><span class="keyword">class </span><a class="code hl_class" href="class_network_analyzer.html">NetworkAnalyzer</a> {</div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span><span class="keyword">public</span>:</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>    <span class="keyword">static</span> QString <a class="code hl_function" href="class_network_analyzer.html#ae70b905da310c221ef1c3150b28b4690">preparePrompt</a>(<span class="keyword">const</span> <a class="code hl_struct" href="struct_company_profile.html">CompanyProfile</a>&amp; profile);</div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span></div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>    <span class="keyword">static</span> <span class="keywordtype">bool</span> <a class="code hl_function" href="class_network_analyzer.html#a8170c2de1010aae007ef71835efc03c1">validateProposal</a>(<span class="keyword">const</span> <a class="code hl_class" href="class_network_proposal.html">NetworkProposal</a>&amp; proposal);</div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span></div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>    <span class="keyword">static</span> <span class="keywordtype">double</span> <a class="code hl_function" href="class_network_analyzer.html#ad1355e0e75290c27c9c107973e228597">calculateAverageEmployees</a>(<span class="keyword">const</span> QList&lt;NetworkProposal&gt;&amp; history);</div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span></div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>    <span class="keyword">static</span> <a class="code hl_class" href="class_network_proposal.html">NetworkProposal</a> <a class="code hl_function" href="class_network_analyzer.html#a43851723e3a5f536c7d14a757687283e">findExtensiveProject</a>(<span class="keyword">const</span> QList&lt;NetworkProposal&gt;&amp; history);</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span></div>
+<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>    <span class="keyword">static</span> QString <a class="code hl_function" href="class_network_analyzer.html#a006c5b3500f4c407023f6260a0d00fe1">determineScaleTrend</a>(<span class="keyword">const</span> QList&lt;NetworkProposal&gt;&amp; history);</div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>};</div>
+</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span> </div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span><span class="preprocessor">#endif</span></div>
+<div class="ttc" id="a_company_profile_8h_html"><div class="ttname"><a href="_company_profile_8h.html">CompanyProfile.h</a></div></div>
+<div class="ttc" id="a_network_proposal_8h_html"><div class="ttname"><a href="_network_proposal_8h.html">NetworkProposal.h</a></div><div class="ttdoc">Definicja klasy NetworkProposal reprezentującej wynikowy projekt sieci.</div></div>
+<div class="ttc" id="aclass_network_analyzer_html"><div class="ttname"><a href="class_network_analyzer.html">NetworkAnalyzer</a></div><div class="ttdoc">Zbiór statycznych metod do budowy promptów oraz analizy historii projektów sieciowych.</div><div class="ttdef"><b>Definicja</b> NetworkAnalyzer.h:17</div></div>
+<div class="ttc" id="aclass_network_analyzer_html_a006c5b3500f4c407023f6260a0d00fe1"><div class="ttname"><a href="class_network_analyzer.html#a006c5b3500f4c407023f6260a0d00fe1">NetworkAnalyzer::determineScaleTrend</a></div><div class="ttdeci">static QString determineScaleTrend(const QList&lt; NetworkProposal &gt; &amp;history)</div><div class="ttdoc">Określa trend wielkości projektów (czy firmy rosną)[cite: 60].</div><div class="ttdef"><b>Definicja</b> NetworkAnalyzer.cpp:33</div></div>
+<div class="ttc" id="aclass_network_analyzer_html_a43851723e3a5f536c7d14a757687283e"><div class="ttname"><a href="class_network_analyzer.html#a43851723e3a5f536c7d14a757687283e">NetworkAnalyzer::findExtensiveProject</a></div><div class="ttdeci">static NetworkProposal findExtensiveProject(const QList&lt; NetworkProposal &gt; &amp;history)</div><div class="ttdoc">Znajduje projekt z największą infrastrukturą (max lokalizacji)[cite: 57].</div><div class="ttdef"><b>Definicja</b> NetworkAnalyzer.cpp:25</div></div>
+<div class="ttc" id="aclass_network_analyzer_html_a8170c2de1010aae007ef71835efc03c1"><div class="ttname"><a href="class_network_analyzer.html#a8170c2de1010aae007ef71835efc03c1">NetworkAnalyzer::validateProposal</a></div><div class="ttdeci">static bool validateProposal(const NetworkProposal &amp;proposal)</div><div class="ttdoc">Sprawdza, czy propozycja sieci zawiera treść wygenerowaną przez AI.</div><div class="ttdef"><b>Definicja</b> NetworkAnalyzer.cpp:14</div></div>
+<div class="ttc" id="aclass_network_analyzer_html_ad1355e0e75290c27c9c107973e228597"><div class="ttname"><a href="class_network_analyzer.html#ad1355e0e75290c27c9c107973e228597">NetworkAnalyzer::calculateAverageEmployees</a></div><div class="ttdeci">static double calculateAverageEmployees(const QList&lt; NetworkProposal &gt; &amp;history)</div><div class="ttdoc">Oblicza średnią liczbę pracowników w zapisanych projektach[cite: 59].</div><div class="ttdef"><b>Definicja</b> NetworkAnalyzer.cpp:18</div></div>
+<div class="ttc" id="aclass_network_analyzer_html_ae70b905da310c221ef1c3150b28b4690"><div class="ttname"><a href="class_network_analyzer.html#ae70b905da310c221ef1c3150b28b4690">NetworkAnalyzer::preparePrompt</a></div><div class="ttdeci">static QString preparePrompt(const CompanyProfile &amp;profile)</div><div class="ttdoc">Buduje treść zapytania (promptu) do modelu LLM na podstawie profilu firmy.</div><div class="ttdef"><b>Definicja</b> NetworkAnalyzer.cpp:5</div></div>
+<div class="ttc" id="aclass_network_proposal_html"><div class="ttname"><a href="class_network_proposal.html">NetworkProposal</a></div><div class="ttdoc">Model danych przechowujący kompletną propozycję konfiguracji sieciowej.</div><div class="ttdef"><b>Definicja</b> NetworkProposal.h:24</div></div>
+<div class="ttc" id="astruct_company_profile_html"><div class="ttname"><a href="struct_company_profile.html">CompanyProfile</a></div><div class="ttdoc">Dane wejściowe opisujące profil firmy klienta, zbierane w formularzu.</div><div class="ttdef"><b>Definicja</b> CompanyProfile.h:11</div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+</div><!-- container -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a href="dir_aebb8dcc11953d78e620bbef0b9e2183.html">core</a></li><li class="navelem"><a href="_network_analyzer_8h.html">NetworkAnalyzer.h</a></li>
+    <li class="footer">Wygenerowano za pomocą <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.16.1 </li>
+  </ul>
+</div>
+</body>
+</html>

@@ -11,6 +11,7 @@
 #include <QString>
 #include <QDateTime>
 #include <QJsonObject>
+#include <QMetaType>
 #include "CompanyProfile.h"
 
 /**
@@ -65,5 +66,7 @@ public:
      */
     static NetworkProposal fromJson(const QJsonObject &json);
 };
+
+Q_DECLARE_METATYPE(NetworkProposal)
 
 #endif // NETWORKPROPOSAL_H

@@ -10,6 +10,9 @@
 #include "../llm/OllamaClient.h"
 #include "../llm/PromptBuilder.h"
 #include "CompanyInputDialog.h"
+#include "HistoryWidget.h"
+#include "StatsView.h"
+#include "NetworkResultWidget.h"
 #include "../core/NetworkProposal.h"
 #include <QMessageBox>
 #include <QUuid>
@@ -23,24 +26,36 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
 
-    // 1. Inicjalizacja modułów funkcjonalnych
     m_ollamaClient = new OllamaClient(this);
     m_dbManager = new DatabaseManager(this);
 
-    // 2. Asynchroniczne przygotowanie bazy danych SQLite
+    m_historyWidget = new HistoryWidget();
+    m_historyWidget->setWindowTitle("Historia projektów");
+    m_historyWidget->resize(500, 400);
+
+    m_statsView = new StatsView();
+    m_statsView->setWindowTitle("Statystyki projektów");
+    m_statsView->resize(600, 400);
+
+    m_resultWidget = new NetworkResultWidget();
+    m_resultWidget->setWindowTitle("Szczegóły propozycji");
+    m_resultWidget->resize(600, 500);
+
     m_dbManager->initAsync("network_history.db");
 
-    // 3. Połączenia sygnałów i slotów - Logika AI
     connect(m_ollamaClient, &OllamaClient::responseReceived,
             this, &MainWindow::handleAIResponse);
     connect(m_ollamaClient, &OllamaClient::errorOccurred,
             this, &MainWindow::handleAIError);
 
-    // 4. Połączenia sygnałów - Warstwa danych
     connect(m_dbManager, &DatabaseManager::saveFinished,
             this, &MainWindow::onDatabaseOperationFinished);
+    connect(m_dbManager, &DatabaseManager::allProposalsLoaded,
+            this, &MainWindow::handleHistoryLoaded);
 
-    // Domyślnie przycisk wysyłki jest nieaktywny do czasu wygenerowania promptu
+    connect(m_historyWidget, &HistoryWidget::proposalSelected,
+            this, &MainWindow::handleProposalSelected);
+
     ui->sendToAIButton->setEnabled(false);
 }
 
@@ -58,10 +73,7 @@ void MainWindow::on_generateButton_clicked() {
     CompanyInputDialog dialog(this);
     if (dialog.exec() == QDialog::Accepted) {
         m_currentProfile = dialog.getProfile();
-
-        // Budowanie promptu przy użyciu wzorca Builder
         QString prompt = PromptBuilder::buildNetworkPrompt(m_currentProfile);
-
         ui->promptDisplay->setPlainText(prompt);
         ui->sendToAIButton->setEnabled(true);
     }
@@ -80,6 +92,22 @@ void MainWindow::on_sendToAIButton_clicked() {
 }
 
 /**
+ * @brief Zleca wczytanie historii z bazy i oznacza widok historii jako oczekujący na dane.
+ */
+void MainWindow::on_historyButton_clicked() {
+    m_pendingHistoryAction = PendingHistoryAction::ShowHistory;
+    m_dbManager->requestAllProposals();
+}
+
+/**
+ * @brief Zleca wczytanie historii z bazy i oznacza widok statystyk jako oczekujący na dane.
+ */
+void MainWindow::on_statsButton_clicked() {
+    m_pendingHistoryAction = PendingHistoryAction::ShowStats;
+    m_dbManager->requestAllProposals();
+}
+
+/**
  * @brief Obsługuje poprawną odpowiedź z modelu i inicjuje proces zapisu.
  * @param response Tekst wygenerowany przez LLM.
  */
@@ -87,14 +115,12 @@ void MainWindow::handleAIResponse(const QString response) {
     ui->promptDisplay->setPlainText(response);
     ui->sendToAIButton->setEnabled(true);
 
-    // Kapsułkowanie danych w obiekcie NetworkProposal
     NetworkProposal proposal;
     proposal.id = QUuid::createUuid().toString();
     proposal.timestamp = QDateTime::currentDateTime();
     proposal.rawContent = response;
     proposal.profile = m_currentProfile;
 
-    // Zlecenie zapisu do bazy w osobnym wątku (Wymóg 6 - Wielowątkowość)
     m_dbManager->saveProposalAsync(proposal);
 }
 
@@ -115,4 +141,36 @@ void MainWindow::onDatabaseOperationFinished(bool success) {
     } else {
         statusBar()->showMessage("Błąd krytyczny: Nie udało się zapisać danych!", 5000);
     }
+}
+
+/**
+ * @brief Wypełnia oczekujący widok (historię lub statystyki) danymi z bazy i go wyświetla.
+ * @param proposals Lista wszystkich zapisanych propozycji.
+ */
+void MainWindow::handleHistoryLoaded(const QList<NetworkProposal> &proposals) {
+    switch (m_pendingHistoryAction) {
+    case PendingHistoryAction::ShowHistory:
+        m_historyWidget->setProposals(proposals);
+        m_historyWidget->show();
+        m_historyWidget->raise();
+        break;
+    case PendingHistoryAction::ShowStats:
+        m_statsView->updateStatistics(proposals);
+        m_statsView->show();
+        m_statsView->raise();
+        break;
+    case PendingHistoryAction::None:
+        break;
+    }
+    m_pendingHistoryAction = PendingHistoryAction::None;
+}
+
+/**
+ * @brief Wypełnia widok szczegółów wybraną propozycją i go wyświetla.
+ * @param proposal Propozycja wybrana przez użytkownika w oknie historii.
+ */
+void MainWindow::handleProposalSelected(const NetworkProposal &proposal) {
+    m_resultWidget->displayProposal(proposal);
+    m_resultWidget->show();
+    m_resultWidget->raise();
 }

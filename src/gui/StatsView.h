@@ -12,13 +12,22 @@
 #include <QtCharts/QBarSet>
 #include "../core/NetworkProposal.h"
 
+/**
+ * @class StatsView
+ * @brief Widok prezentujący wykres słupkowy liczby pracowników w zapisanych projektach.
+ */
 class StatsView : public QWidget {
     Q_OBJECT
 public:
+    /**
+     * @brief Konstruktor widoku statystyk.
+     * @param parent Wskaźnik na widget nadrzędny.
+     */
     explicit StatsView(QWidget *parent = nullptr);
 
     /**
      * @brief Odświeża wykres na podstawie historii projektów.
+     * @param history Lista dotychczasowych propozycji.
      */
     void updateStatistics(const QList<NetworkProposal>& history);
 

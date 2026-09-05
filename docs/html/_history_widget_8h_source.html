@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=11"/>
+<meta name="generator" content="Doxygen 1.16.1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>System Analizy Sieci AI: Plik źródłowy src/gui/HistoryWidget.h</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<script type="text/javascript" src="clipboard.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript" src="cookie.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr id="projectrow">
+  <td id="projectalign">
+   <div id="projectname">System Analizy Sieci AI<span id="projectnumber">&#160;1.0</span>
+   </div>
+   <div id="projectbrief">Program ma na celu pomoc przy projektowaniu infrastruktury sieciowej dla firm.</div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Wygenerowano za pomocą Doxygen 1.16.1 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search/",'.html');
+</script>
+<script type="text/javascript">
+$(function() { codefold.init(); });
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','Szukaj',true);
+  $(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(function(){initNavTree('_history_widget_8h_source.html','',''); });
+</script>
+<div id="container">
+<div id="doc-content">
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<div id="MSearchResults">
+<div class="SRPage">
+<div id="SRIndex">
+<div id="SRResults"></div>
+<div class="SRStatus" id="Loading">Wczytywanie...</div>
+<div class="SRStatus" id="Searching">Szukanie...</div>
+<div class="SRStatus" id="NoMatches">Brak dopasowań</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="header">
+  <div class="headertitle"><div class="title">HistoryWidget.h</div></div>
+</div><!--header-->
+<div class="contents">
+<a href="_history_widget_8h.html">Idź do dokumentacji tego pliku.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="preprocessor">#ifndef HISTORYWIDGET_H</span></div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="preprocessor">#define HISTORYWIDGET_H</span></div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span> </div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="preprocessor">#include &lt;QWidget&gt;</span></div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="preprocessor">#include &lt;QListWidget&gt;</span></div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="preprocessor">#include &lt;QVBoxLayout&gt;</span></div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="preprocessor">#include &quot;<a class="code" href="_network_proposal_8h.html">../core/NetworkProposal.h</a>&quot;</span></div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span></div>
+<div class="foldopen" id="foldopen00013" data-start="{" data-end="};">
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno"><a class="line" href="class_history_widget.html">   13</a></span><span class="keyword">class </span><a class="code hl_function" href="class_history_widget.html#abb838cef5a0e2800b977596da9578cf8">HistoryWidget</a> : <span class="keyword">public</span> QWidget {</div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    Q_OBJECT</div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span><span class="keyword">public</span>:</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>    <span class="keyword">explicit</span> <a class="code hl_function" href="class_history_widget.html#abb838cef5a0e2800b977596da9578cf8">HistoryWidget</a>(QWidget *parent = <span class="keyword">nullptr</span>);</div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span></div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="class_history_widget.html#aa73611410ef9abc62060c9e7af9488e9">setProposals</a>(<span class="keyword">const</span> QList&lt;NetworkProposal&gt; &amp;proposals);</div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span> </div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>signals:</div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno"><a class="line" href="class_history_widget.html#a39abd7956db6b1efa3edae1ebbbbd87a">   33</a></span>    <span class="keywordtype">void</span> <a class="code hl_signal" href="class_history_widget.html#a39abd7956db6b1efa3edae1ebbbbd87a">proposalSelected</a>(<span class="keyword">const</span> <a class="code hl_class" href="class_network_proposal.html">NetworkProposal</a> &amp;proposal);</div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span> </div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span><span class="keyword">private</span> slots:</div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    <span class="keywordtype">void</span> <a class="code hl_slot" href="class_history_widget.html#a9392d770cc0a057ea07e1b258dbf74ab">onItemDoubleClicked</a>(QListWidgetItem *item);</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span> </div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span><span class="keyword">private</span>:</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno"><a class="line" href="class_history_widget.html#a15ddd7b0f09afbc1441c8d2632f9212d">   43</a></span>    QListWidget* <a class="code hl_variable" href="class_history_widget.html#a15ddd7b0f09afbc1441c8d2632f9212d">listWidget</a>;</div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno"><a class="line" href="class_history_widget.html#a460416ce223e84136c04b8026a19c52c">   44</a></span>    QList&lt;NetworkProposal&gt; <a class="code hl_variable" href="class_history_widget.html#a460416ce223e84136c04b8026a19c52c">m_proposals</a>;</div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>};</div>
+</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span> </div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span><span class="preprocessor">#endif</span></div>
+<div class="ttc" id="a_network_proposal_8h_html"><div class="ttname"><a href="_network_proposal_8h.html">NetworkProposal.h</a></div><div class="ttdoc">Definicja klasy NetworkProposal reprezentującej wynikowy projekt sieci.</div></div>
+<div class="ttc" id="aclass_history_widget_html_a15ddd7b0f09afbc1441c8d2632f9212d"><div class="ttname"><a href="class_history_widget.html#a15ddd7b0f09afbc1441c8d2632f9212d">HistoryWidget::listWidget</a></div><div class="ttdeci">QListWidget * listWidget</div><div class="ttdef"><b>Definicja</b> HistoryWidget.h:43</div></div>
+<div class="ttc" id="aclass_history_widget_html_a39abd7956db6b1efa3edae1ebbbbd87a"><div class="ttname"><a href="class_history_widget.html#a39abd7956db6b1efa3edae1ebbbbd87a">HistoryWidget::proposalSelected</a></div><div class="ttdeci">void proposalSelected(const NetworkProposal &amp;proposal)</div><div class="ttdoc">Emitowany po dwukrotnym kliknięciu wpisu historii.</div></div>
+<div class="ttc" id="aclass_history_widget_html_a460416ce223e84136c04b8026a19c52c"><div class="ttname"><a href="class_history_widget.html#a460416ce223e84136c04b8026a19c52c">HistoryWidget::m_proposals</a></div><div class="ttdeci">QList&lt; NetworkProposal &gt; m_proposals</div><div class="ttdef"><b>Definicja</b> HistoryWidget.h:44</div></div>
+<div class="ttc" id="aclass_history_widget_html_a9392d770cc0a057ea07e1b258dbf74ab"><div class="ttname"><a href="class_history_widget.html#a9392d770cc0a057ea07e1b258dbf74ab">HistoryWidget::onItemDoubleClicked</a></div><div class="ttdeci">void onItemDoubleClicked(QListWidgetItem *item)</div><div class="ttdoc">Emituje proposalSelected dla propozycji odpowiadającej klikniętemu elementowi.</div><div class="ttdef"><b>Definicja</b> HistoryWidget.cpp:26</div></div>
+<div class="ttc" id="aclass_history_widget_html_aa73611410ef9abc62060c9e7af9488e9"><div class="ttname"><a href="class_history_widget.html#aa73611410ef9abc62060c9e7af9488e9">HistoryWidget::setProposals</a></div><div class="ttdeci">void setProposals(const QList&lt; NetworkProposal &gt; &amp;proposals)</div><div class="ttdoc">Wypełnia listę historii podanymi propozycjami, zastępując poprzednią zawartość.</div><div class="ttdef"><b>Definicja</b> HistoryWidget.cpp:13</div></div>
+<div class="ttc" id="aclass_history_widget_html_abb838cef5a0e2800b977596da9578cf8"><div class="ttname"><a href="class_history_widget.html#abb838cef5a0e2800b977596da9578cf8">HistoryWidget::HistoryWidget</a></div><div class="ttdeci">HistoryWidget(QWidget *parent=nullptr)</div><div class="ttdoc">Konstruktor widgetu historii.</div><div class="ttdef"><b>Definicja</b> HistoryWidget.cpp:3</div></div>
+<div class="ttc" id="aclass_network_proposal_html"><div class="ttname"><a href="class_network_proposal.html">NetworkProposal</a></div><div class="ttdoc">Model danych przechowujący kompletną propozycję konfiguracji sieciowej.</div><div class="ttdef"><b>Definicja</b> NetworkProposal.h:24</div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+</div><!-- container -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a href="dir_99d0482cf009f9d97a0877749b817f19.html">gui</a></li><li class="navelem"><a href="_history_widget_8h.html">HistoryWidget.h</a></li>
+    <li class="footer">Wygenerowano za pomocą <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.16.1 </li>
+  </ul>
+</div>
+</body>
+</html>
