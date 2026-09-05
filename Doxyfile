@@ -23,6 +23,7 @@ EXTRACT_PRIVATE        = YES
 EXTRACT_STATIC         = YES
 
 GENERATE_HTML          = YES
+HTML_OUTPUT            = .
 GENERATE_LATEX         = NO
 
 HAVE_DOT               = NO
